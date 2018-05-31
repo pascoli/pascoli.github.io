@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>Shadowgraph Photography Rig | Peter Ascoli</title>
+		<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/index.html</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Thu, 31 May 2018 23:32:09 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.10.7</generator>
+		<item>
+			<title>Sample Image</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-4.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The premixed flame (the triangle) and diffusion flame (the external flow).&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 05:33:12 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-4.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_9827_med.jpeg" length="192806" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Shadowgraph Video</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/shadowgraph-video.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A shadowgraph video - edited with MATLAB’s Image Processing Toolbox.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div class="Movie graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/5JUQMy1U6zo?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="900" height="506" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 05:33:12 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/shadowgraph-video.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>CAD Render</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/cad-render.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A rendering of the prelimary CAD design in Autodesk Inventor.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:29:41 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/cad-render.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/image2_med.png" length="2198411" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>Summary Video</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/summary-video.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;A summary video of the project produced [by me] for Cooper Union’s End of Year Show.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div class="Movie graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/OUK0hT09bJc?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="900" height="506" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/summary-video.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Proof-of-Concept</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/proof-of-concept.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A simple shadowgraph image generated prior to designing the rig.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/proof-of-concept.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_6938_med.jpeg" length="912434" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Physical Setup</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/physical-setup.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The LED, camera, flame tube, and foam core projection plane mounted on the shadowgraph rig&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/physical-setup.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_9908_med.jpeg" length="412886" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Combustion Experimentation</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/combustion-experimentation.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Planning for future use, the rig was set up in the school’s combustion laboratory. Here you can see the rig next to a propane tank and air supply, which feed into a quartz flame tube.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/combustion-experimentation.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_9913_med.jpeg" length="462937" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Sample Image</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A laminar-to-turbulent transition.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_9884_med.jpeg" length="253162" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Sample Image</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-3.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;When the premixed flame undergoes flashback and propogates down the tube, the shadowgraph still shows a flow of heated gas. Even when the flame dies, the shadowgraph shows that the event is not actually over until a second-or-two later.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-3.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_9900_med.jpeg" length="250033" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Sample Image</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-2.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A turbulent diffusion flame.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-2.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_9830_med.jpeg" length="207786" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Sample Image</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-5.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana;"&gt;A side-by-side comparison of a premixed flame along with its shadowgraph.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 11 Apr 2014 04:27:47 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-5.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_9948_med.jpeg" length="242539" type="image/jpeg"></enclosure>
+			
+		</item>
+ 	</channel>
+</rss>

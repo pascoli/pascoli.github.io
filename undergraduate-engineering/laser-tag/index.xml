@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>Laser Tag | Peter Ascoli</title>
+		<link>http://peterascoli.com/undergraduate-engineering/laser-tag/index.htm</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Thu, 31 May 2018 23:32:16 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.10.7</generator>
+		<item>
+			<title>The Laser Gun</title>
+			<link>http://peterascoli.com/undergraduate-engineering/laser-tag/the-laser-gun.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The green laser is recognized by the photodiode and therefore transmits the signal. The purple laser, however, cannot trigger the photodiode and acts as a targeting laser.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 30 Dec 2012 00:16:24 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/laser-tag/the-laser-gun.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dscf5750_med.jpeg" length="5761700" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Completed Circuitry</title>
+			<link>http://peterascoli.com/undergraduate-engineering/laser-tag/completed-circuitry.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The vest is represented by the left-most breadboard and the three bread boards on the far right. The remaining two breadboards each represent a gun.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 29 Dec 2012 04:08:12 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/laser-tag/completed-circuitry.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dsc_2625_med.jpeg" length="579659" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Oscilloscope Signals</title>
+			<link>http://peterascoli.com/undergraduate-engineering/laser-tag/oscilloscope-signals.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Signals from the vest (green) and gun (yellow) when the laser is fired at the photodiode target.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 29 Dec 2012 04:08:12 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/laser-tag/oscilloscope-signals.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dscf5741_med.jpeg" length="6156865" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Demonstration Video</title>
+			<link>http://peterascoli.com/undergraduate-engineering/laser-tag/demonstrational-video.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div class="Movie graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/4KyAPuEu-nU?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="430" height="241" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 29 Dec 2012 04:08:12 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/laser-tag/demonstrational-video.html</guid>
+            
+			
+		</item>
+ 	</channel>
+</rss>

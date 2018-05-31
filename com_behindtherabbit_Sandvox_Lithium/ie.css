@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* IE8 */
+
+.gridItem h3 {
+	background-color:#000;
+}
+
+/* IE7 */
+
+*+html .gridItem {
+	margin-bottom:50px;
+	height:260px;
+}
+*+html #title h1,
+*+html #title p {
+	display:inline;
+	padding-top:40px;
+}

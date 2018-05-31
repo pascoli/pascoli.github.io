@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>Undergraduate Engineering Projects | Peter Ascoli</title>
+		<link>http://peterascoli.com/undergraduate-engineering/index.html</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Thu, 31 May 2018 23:31:38 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.10.7</generator>
+		<item>
+			<title>Modular Camera</title>
+			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Modular Camera was designed, built, and tested by&lt;/span&gt; &lt;a href="https://www.linkedin.com/in/chriscurro" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Chris Curro&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;and I in 24 hours at a&lt;/span&gt; &lt;a href="https://www.hackerleague.org/hackathons/hackcooper" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Cooper Union Hackathon&lt;/a&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;. As photoenthusiasts we decided to create a laser-cut modular camera system during the event. The camera has three modules. The first holds the lens(es), shutter and aperture. The second is a translatable focusing module. The third mounts a film or digital back. The configuration shown below holds a 120mm FL positive meniscus lens, a f/11 circular aperture, and a single blade leaf shutter. As a modular system, we created many other aperture shapes and sizes, and one could create different shutter mechanisms, optical lens stacks, and a variety of camera backs (digital, medium format, polaroid, etc.). My Nikon d90 was used during the Hackathon to efficiently demonstrate the potential of the Hack. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;Modular Camera won &lt;em&gt;Most Technical Hack&lt;/em&gt; at HackCooper 2014.&lt;/span&gt;
+					&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/overview.html" title="Overview" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/overview.html" title="Overview"&gt;&lt;span class="in"&gt;Overview&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/front-view.html" title="Front View" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/front-view.html" title="Front View"&gt;&lt;span class="in"&gt;Front View&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-mechanism.html" title="Shutter Mechanism" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-mechanism.html" title="Shutter Mechanism"&gt;&lt;span class="in"&gt;Shutter Mechanism&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-cad-assembly.html" title="Exploded CAD Assembly" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-cad-assembly.html" title="Exploded CAD Assembly"&gt;&lt;span class="in"&gt;Exploded CAD Assembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter.html" title="Lens, Aperture, &amp;amp; Shutter" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter.html" title="Lens, Aperture, &amp;amp; Shutter"&gt;&lt;span class="in"&gt;Lens, Aperture, &amp;amp; Shutter&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html" title="Exploded Shutter Assembly" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html" title="Exploded Shutter Assembly"&gt;&lt;span class="in"&gt;Exploded Shutter Assembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i7 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-demonstrational.html" title="Shutter Demonstration Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-demonstrational.html" title="Shutter Demonstration Video"&gt;&lt;span class="in"&gt;Shutter Demonstration Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i8 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html" title="Lens, Aperture, &amp;amp; Shutter Module" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html" title="Lens, Aperture, &amp;amp; Shutter Module"&gt;&lt;span class="in"&gt;Lens, Aperture, &amp;amp; Shutter Module&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i9 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/focusing--digital-back.html" title="Focusing &amp;amp; Digital-Back Module" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/focusing--digital-back.html" title="Focusing &amp;amp; Digital-Back Module"&gt;&lt;span class="in"&gt;Focusing &amp;amp; Digital-Back Module&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i10 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/the-three-modules.html" title="The Three Modules" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/the-three-modules.html" title="The Three Modules"&gt;&lt;span class="in"&gt;The Three Modules&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i11 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/solenoid-circuitry.html" title="Solenoid Circuitry" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/solenoid-circuitry.html" title="Solenoid Circuitry"&gt;&lt;span class="in"&gt;Solenoid Circuitry&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i12 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i13 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-2.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-2.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i14 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-3.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-3.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i15 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-4.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-4.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i16 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-5.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-5.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Thu, 19 Sep 2013 06:41:53 +0200</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>LURE</title>
+			<link>http://peterascoli.com/undergraduate-engineering/lure/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;LURE is a set of sculptures designed and fabricated by&lt;/span&gt; &lt;a href="http://jsong.me/" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Jackie Song&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;and I for Brooklyn artist&lt;/span&gt; &lt;a href="http://madorafrey.com/home.html" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;MaDora Frey&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;during academic year 2012-2013. The artist approaced us with initial sketches of the piece, called&lt;/span&gt; &lt;em style="font-family: Verdana; font-size: 14px;"&gt;LURE.&lt;/em&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;Working within her desired aesthetic and function for the sculpture, we turned her idea into a mechanically and structural sound device. Multiple concepts were modeled in CAD software. Once the design was finalized, 2D drawings for manufacturing were created, components were machined, and the sculptures assembled. LURE consists of an upper pulley system that lowers a piece of pyrite down to a claw mechanism. The claw, a lead screw actuated series of linkages with feathers secured to the ends, grabs at the pyrite as it descends. The pulley system and claw are driven by stepper motors, which are both controlled by an Arduino to make the two seemingly independent structures interact. LURE was shown in the &lt;a href="http://www.trestlegallery.org/" target="_blank"&gt;Trestle Gallery&lt;/a&gt; in Brooklyn soon after completion.&lt;/span&gt;
+					&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/lure.html" title="LURE" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/lure.html" title="LURE"&gt;&lt;span class="in"&gt;LURE&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/studio-video.html" title="Studio Video" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-23-at.png" alt="Studio Video" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/studio-video.html" title="Studio Video"&gt;&lt;span class="in"&gt;Studio Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/simple-drawing.html" title="Simple Drawing" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-23-at-2.png" alt="Simple Drawing" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/simple-drawing.html" title="Simple Drawing"&gt;&lt;span class="in"&gt;Simple Drawing&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/operational-video.html" title="Operational Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/operational-video.html" title="Operational Video"&gt;&lt;span class="in"&gt;Operational Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/truss-assembly-jig.html" title="Truss Assembly Jig" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/truss-assembly-jig.html" title="Truss Assembly Jig"&gt;&lt;span class="in"&gt;Truss Assembly Jig&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/approaching-completion.html" title="Approaching Completion" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/approaching-completion.html" title="Approaching Completion"&gt;&lt;span class="in"&gt;Approaching Completion&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i7 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/mounted-rope--pyrite.html" title="Mounted Rope &amp;amp; Pyrite" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/mounted-rope--pyrite.html" title="Mounted Rope &amp;amp; Pyrite"&gt;&lt;span class="in"&gt;Mounted Rope &amp;amp; Pyrite&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i8 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/bottom-structure-actuation.html" title="Bottom Structure Actuation" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/bottom-structure-actuation.html" title="Bottom Structure Actuation"&gt;&lt;span class="in"&gt;Bottom Structure Actuation&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i9 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/inside-the-base.html" title="Inside the Base" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/inside-the-base.html" title="Inside the Base"&gt;&lt;span class="in"&gt;Inside the Base&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i10 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/close-up.html" title="Close-Up" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/close-up.html" title="Close-Up"&gt;&lt;span class="in"&gt;Close-Up&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i11 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/mounted-crow-feathers.html" title="Mounted Crow Feathers" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/mounted-crow-feathers.html" title="Mounted Crow Feathers"&gt;&lt;span class="in"&gt;Mounted Crow Feathers&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i12 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/open-base.html" title="Open Base" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/open-base.html" title="Open Base"&gt;&lt;span class="in"&gt;Open Base&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;br /&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/lure/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Second Operation Lathe</title>
+			<link>http://peterascoli.com/undergraduate-engineering/second-operation-lathe/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Along with three other team members, a second operation lathe was designed and manufactured for Cooper Union’s Student Machine Shop during academic year 2014-2015. With only one lathe in the Student Machine Shop, it was decided that creating a second operation lathe would decrease the long line of students waiting for that machine by providing one capable of turning less complex parts, such as pieces not requiring thread cutting or the use of a tailstock. Working under budget constraints from the Department of Mechanical Engineering, as well as turning and safety requirements established by shop technicians, faculty, and staff, a second operation lathe was designed in SolidWorks. Sufficient strength and deformation requirements were validated using finite element analysis (FEA) and parametric hand calculations. Once the design was successfully vetted after multiple concepts and iterations, 2D drawings for manufacturing were produced. The majority of parts were machined from stock by my teammates and I using the manual mill and lathe, with assembly occuring as parts were completed.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/second-operation-lathe/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Carbon Fiber 3D Printing</title>
+			<link>http://peterascoli.com/undergraduate-engineering/carbon-fiber-3d-printing/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;A fused deposition modeling (FDM) 3D printer capable of printing a carbon fiber reinforced polymer (CFRP) filament in curved layers was developed by &lt;a href="http://jsong.me/" target="_blank"&gt;Jackie Song&lt;/a&gt; and I for our capstone senior design project (2014-2015). The driving force behind this project was the weak thermoplastic materials and poor adhesion from planar layers that limit most 3D printing to rapid prototyping applications. With stronger filament materials and layer orientation optimized for the loads imparted on a given specimen, load-bearing implementation of 3D printed parts could be realized. With this in mind, we set out to created and utilize a CFRP filament and print using curved layers aligned with loads to take full advantage of a carbon fiber composite filament.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;To created the printer, an extruder end-effector was designed and fabricated for mounting to a FANUC LR Mate 200iC industrial robot arm. The extruder uses &lt;a href="http://reprap.org/" target="_blank"&gt;RepRap&lt;/a&gt; 3D printing hardware and is controlled by a &lt;a href="http://reprap.org/wiki/Megatronics_2.0" target="_blank"&gt;Megatronics&lt;/a&gt; controller. The FANUC robot provides the six degrees of freedom necessary to realize curved layer 3D printing. The open-source Megatronics microcontroller and FANUC robot system were programmed with toolpaths and extruder speeds for a sample bridge specimen (shown above). A novel ABS-matrix carbon fiber filament was created using dipping methods and a composite finitie element analysis (FEA) using filament material properties was used to predict specimen strength, stiffness, and failure behavior. Filament tensile tests demonstrated stiffness on the same order of magnitude as aluminum while FEA predicted CFRP part stength to be nearly twice that of an ABS analog, and the stiffness to be on the same order of magnitude as an aluminum part. While the project progressed very far, inefficiencies in filament manufacturing ultimately prevented us from printing with CFRP using the FANUC (CFRP extrusion was validated using a &lt;a href="http://the3doodler.com/" target="_blank"&gt;3Doodler&lt;/a&gt;) within the academic year. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;A masters student at Cooper Union will pick up this project for their thesis, intending to finalize an efficient filament manufacturing process, print, and experimentally quantify the strength and stiffness of CFRP 3D printed components compared to their planar layer and curved layer ABS analogs, as well as the FEA predictions.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/carbon-fiber-3d-printing/index.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/screen-shot-2015-07-25-at_med.png" length="167010" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>Shadowgraph Photography Rig</title>
+			<link>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;A shadowgraph photography rig was designed and built in spring 2014 as an imaging project with Professor of Mechanical Engineering &lt;a href="https://www.cooper.edu/engineering/people/george-w-sidebotham" target="_blank"&gt;George Sidebotham&lt;/a&gt;. The rig is built around an existing flashback combustion lab setup and creates &lt;a href="https://en.wikipedia.org/wiki/Shadowgraph" target="_blank"&gt;shadowgraphs&lt;/a&gt; of the flame. An HD webcam, high-power LED, foam core projection screen, and a mount for the flashback lab equipment, are secured to frame constructed from &lt;a href="http://www.8020.net/" target="_blank"&gt;80/20&lt;/a&gt;. This setup allows the user to easily position system elements where necessary for optimized shadowgraph images of different flame types. The resulting photographs are not only intriguing images, but serve as a combustion-related teaching tool for the Department of Mechanical Engineering at The Cooper Union.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/summary-video.html" title="Summary Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/summary-video.html" title="Summary Video"&gt;&lt;span class="in"&gt;Summary Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/proof-of-concept.html" title="Proof-of-Concept" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/proof-of-concept.html" title="Proof-of-Concept"&gt;&lt;span class="in"&gt;Proof-of-Concept&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/cad-render.html" title="CAD Render" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/cad-render.html" title="CAD Render"&gt;&lt;span class="in"&gt;CAD Render&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/physical-setup.html" title="Physical Setup" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/physical-setup.html" title="Physical Setup"&gt;&lt;span class="in"&gt;Physical Setup&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/combustion-experimentation.html" title="Combustion Experimentation" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/combustion-experimentation.html" title="Combustion Experimentation"&gt;&lt;span class="in"&gt;Combustion Experimentation&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i7 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-3.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-3.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i8 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-2.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-2.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i9 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-4.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-4.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i10 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-5.html" title="Sample Image" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/sample-image-5.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i11 o last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/shadowgraph-video.html" title="Shadowgraph Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/shadowgraph-video.html" title="Shadowgraph Video"&gt;&lt;span class="in"&gt;Shadowgraph Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>LEGO Ice Cubes</title>
+			<link>http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A small project to gain some experience in mold-making. Instead of using an existing LEGO brick, I opted to 3D print one more condusive to molding ice cubes (with drafts, fillets, and as little material removed from the inside as possible). A food-grade silicon was used for the mold since it could easily peel off of the cast LEGO brick. The ice cubes are stackable but as small features, the studs completely melt after a few short minutes. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/the-mold-and-the-part.html" title="The Mold and the Part" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/the-mold-and-the-part.html" title="The Mold and the Part"&gt;&lt;span class="in"&gt;The Mold and the Part&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/creating-the-mold.html" title="Creating the Mold" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/creating-the-mold.html" title="Creating the Mold"&gt;&lt;span class="in"&gt;Creating the Mold&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/peter-ascoli-ice-cube.pdf" title="EOYS Poster" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/peter-ascoli-ice-cube.pdf" title="EOYS Poster"&gt;&lt;span class="in"&gt;EOYS Poster&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/lego-ice-cubes-in-use.html" title="LEGO Ice Cubes in Use" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/lego-ice-cubes-in-use.html" title="LEGO Ice Cubes in Use"&gt;&lt;span class="in"&gt;LEGO Ice Cubes in Use&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;br /&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 27 Jan 2013 23:30:27 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Aperture Light Switch</title>
+			<link>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 13px;"&gt;Aperture Light Switch is an iris mechanism that mounts to standard light switch fixtures. Admittedly, a leaf shutter would have been more symbolically appropriate for use with a standard light switch, but I just happen to love aperture mechanisms. Rotating the device to close the blades flicks off the switch and opening the blades turns on the switch. Aperture Light Switch was created in spring 2013 with laser-cut bristol and wood, as well as standard fastening hardware.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/aperture-light-switch/demonstrational-video.html" title="Demonstration Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/aperture-light-switch/demonstrational-video.html" title="Demonstration Video"&gt;&lt;span class="in"&gt;Demonstration Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/aperture-light-switch/final-product.html" title="Close-up" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/aperture-light-switch/final-product.html" title="Close-up"&gt;&lt;span class="in"&gt;Close-up&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 13px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 27 Jan 2013 23:29:57 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Transforming Table</title>
+			<link>http://peterascoli.com/undergraduate-engineering/transforming-table/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;I came across the idea for this model while browsing projects on Kickstarter. Now an actual product on the market, &lt;a href="http://www.thedhaus.com/products/table.html" target="_blank"&gt;D*Table&lt;/a&gt; utilizes unique geometry to transform itself from a square, to equilateral triangle, with the possibility of being anthing in between. As a fan of functional design like this, I decided to make a small, laser-cut model for myself.  I found a description of the specific geometry, created a 3D CAD model, laser-cut and built a small replica. Measuring 1.375 inches tall, 6 inches in triangular side length, and fully articulated, it is a perfect desk-top toy.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/cad-renders.html" title="CAD Renders" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/untitled-1_256.jpeg" alt="Print" width="256" height="161" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/cad-renders.html" title="CAD Renders"&gt;&lt;span class="in"&gt;CAD Renders&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/square-form-1.html" title="Square Form 1" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5165-2_256.jpeg" alt="DSC 5165" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/square-form-1.html" title="Square Form 1"&gt;&lt;span class="in"&gt;Square Form 1&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/square-form-2.html" title="Square Form 2" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5166_256.jpeg" alt="DSC 5166" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/square-form-2.html" title="Square Form 2"&gt;&lt;span class="in"&gt;Square Form 2&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/exploded.html" title="Exploded" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5167-2_256.jpeg" alt="DSC 5167" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/exploded.html" title="Exploded"&gt;&lt;span class="in"&gt;Exploded&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/intermediate-shape.html" title="Intermediate Shape" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5168-2_256.jpeg" alt="DSC 5168" width="256" height="170" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/intermediate-shape.html" title="Intermediate Shape"&gt;&lt;span class="in"&gt;Intermediate Shape&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/triangular-form.html" title="Triangular Form" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5169-2_256.jpeg" alt="DSC 5169" width="256" height="170" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/triangular-form.html" title="Triangular Form"&gt;&lt;span class="in"&gt;Triangular Form&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i7 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/hinge.html" title="Hinge" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5170_256.jpeg" alt="DSC 5170" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/hinge.html" title="Hinge"&gt;&lt;span class="in"&gt;Hinge&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i8 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/functional-drawers.html" title="Functional Drawers" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5171_256.jpeg" alt="DSC 5171" width="256" height="170" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/functional-drawers.html" title="Functional Drawers"&gt;&lt;span class="in"&gt;Functional Drawers&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 27 Jan 2013 23:29:57 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/transforming-table/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>The Pinball Machine</title>
+			<link>http://peterascoli.com/undergraduate-engineering/the-pinball-machine/index.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The Pinball Machine is an electro-mechanical multi-level arcade game designed and built spring 2012. The player is challenged to navigated top-down through three levels filled with bumpers, kickers, pop-up targets and tunnels. Solenoids control impulsive obstacles, kickers and bumpers, which are triggered by mechanical limit switches or piezo sensors wired in reverse to detect impact vibrations. Servo motors actuate pop-up targets that raise from the floor. Flippers are fully mechanical to accomodate the small level size since sufficiently powerful solenoids do not fit in such a small game. The pamphlet below, produced by&lt;/span&gt; &lt;a href="http://taylorwoods.me/" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Taylor Woods&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;for Cooper’s End of Year Show, thoroughly details the mechanisms and design choices.&lt;/span&gt;
+					&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/pinball.pdf" title="Pinball Pamphlet" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/pinball.pdf" title="Pinball Pamphlet"&gt;&lt;span class="in"&gt;Pinball Pamphlet&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/eoys.html" title="EOYS" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/eoys.html" title="EOYS"&gt;&lt;span class="in"&gt;EOYS&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/finished-top-level.html" title="Finished Top Level" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/finished-top-level.html" title="Finished Top Level"&gt;&lt;span class="in"&gt;Finished Top Level&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/tunnels-and-transitions.html" title="Tunnels and Transitions" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/tunnels-and-transitions.html" title="Tunnels and Transitions"&gt;&lt;span class="in"&gt;Tunnels and Transitions&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/launching-ramp--bumpers.html" title="Launching Ramp &amp;amp; Bumpers" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/launching-ramp--bumpers.html" title="Launching Ramp &amp;amp; Bumpers"&gt;&lt;span class="in"&gt;Launching Ramp &amp;amp; Bumpers&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/reservoir-tubes.html" title="Reservoir Tubes" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/reservoir-tubes.html" title="Reservoir Tubes"&gt;&lt;span class="in"&gt;Reservoir Tubes&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i7 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/flipper-mechanism.html" title="Flipper Mechanism" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/flipper-mechanism.html" title="Flipper Mechanism"&gt;&lt;span class="in"&gt;Flipper Mechanism&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i8 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/upper-level-nearing-complet.html" title="Upper Level Nearing Completion" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/upper-level-nearing-complet.html" title="Upper Level Nearing Completion"&gt;&lt;span class="in"&gt;Upper Level Nearing Completion&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i9 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/early-stages-of-fabrication.html" title="Early Stages of Fabrication" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/early-stages-of-fabrication.html" title="Early Stages of Fabrication"&gt;&lt;span class="in"&gt;Early Stages of Fabrication&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i10 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/bumper-cad.html" title="Bumper CAD" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/bumper-cad.html" title="Bumper CAD"&gt;&lt;span class="in"&gt;Bumper CAD&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i11 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/bumper-video.html" title="Bumper Video" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-24-at.png" alt="Bumper Video" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/bumper-video.html" title="Bumper Video"&gt;&lt;span class="in"&gt;Bumper Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i12 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/kicker-video.html" title="Kicker Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/kicker-video.html" title="Kicker Video"&gt;&lt;span class="in"&gt;Kicker Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i13 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/piezos-mounted-on-bumpers.html" title="Underside Circuitry" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/piezos-mounted-on-bumpers.html" title="Underside Circuitry"&gt;&lt;span class="in"&gt;Underside Circuitry&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i14 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/kicker-prototype.html" title="Kicker Prototype" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/kicker-prototype.html" title="Kicker Prototype"&gt;&lt;span class="in"&gt;Kicker Prototype&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i15 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/kicker-solenoids.html" title="Kicker Solenoids" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/kicker-solenoids.html" title="Kicker Solenoids"&gt;&lt;span class="in"&gt;Kicker Solenoids&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i16 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/initial-sketches-and-concep.html" title="Initial Sketches and Concepts" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/initial-sketches-and-concep.html" title="Initial Sketches and Concepts"&gt;&lt;span class="in"&gt;Initial Sketches and Concepts&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 27 Jan 2013 23:29:38 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/the-pinball-machine/index.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>Laser Tag</title>
+			<link>http://peterascoli.com/undergraduate-engineering/laser-tag/index.htm</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A digital logic implementation of the traditional laser tag game, created spring 2012. The project contains two modules, electronics that represent a laser gun, and electronics that represent a vest. The gun is programed to any one of eight potential players (equally split into two teams) using a DIP-switch. The three bit binary number is compiled into a string with additional information, which prompts the vest to identify the incoming player ID when shot. When triggered, a shift register sends the string through a laser using rapid on-off pulses. A phototransistor on the vest registers the laser pulse. A combination of shift registers, multiplexers, and logic gates decode the transmission and increment a counter for the team that was just hit. Similar to the laser gun, the vest has a player ID input and ignores friendly fire. 7-segment displays show the number of times each team has been hit.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/completed-circuitry.html" title="Completed Circuitry" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/completed-circuitry.html" title="Completed Circuitry"&gt;&lt;span class="in"&gt;Completed Circuitry&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/oscilloscope-signals.html" title="Oscilloscope Signals" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/oscilloscope-signals.html" title="Oscilloscope Signals"&gt;&lt;span class="in"&gt;Oscilloscope Signals&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/the-laser-gun.html" title="The Laser Gun" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/the-laser-gun.html" title="The Laser Gun"&gt;&lt;span class="in"&gt;The Laser Gun&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/demonstrational-video.html" title="Demonstration Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/demonstrational-video.html" title="Demonstration Video"&gt;&lt;span class="in"&gt;Demonstration Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 28 Dec 2012 23:50:28 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/laser-tag/index.htm</guid>
+            
+			
+		</item>
+		<item>
+			<title>Orange Juicer</title>
+			<link>http://peterascoli.com/undergraduate-engineering/orange-juicer/index.htm</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;Two orange juicers were created in fall 2012 for an industrial design project. Both use a novel metallic mechanism to pierce and squish packets of juice from an orange. Sloping metal and wood forms direct the juice into drinkware or cookware. The new mechanism requires much less force than traditional plastic juicers and the juicer is not required to sit directly on top of glass or bowl. The wood model was designed to be warm, inviting, and comfortable while the metal model is more of an aesthetic exploration of the simple triangular mechanism.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/two-juicers.html" title="Two Juicers" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9941_256.jpeg" alt="DSC_9941.jpg" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/two-juicers.html" title="Two Juicers"&gt;&lt;span class="in"&gt;Two Juicers&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/wooden-juicer.html" title="Wooden Juicer" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9960_256.jpeg" alt="DSC_9960.jpg" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/wooden-juicer.html" title="Wooden Juicer"&gt;&lt;span class="in"&gt;Wooden Juicer&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/juicing-1.html" title="Juicing 1" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9992_256.jpeg" alt="DSC_9992.jpg" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/juicing-1.html" title="Juicing 1"&gt;&lt;span class="in"&gt;Juicing 1&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/leftover-pulp.html" title="Leftover Pulp" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9955_256.jpeg" alt="DSC_9955.jpg" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/leftover-pulp.html" title="Leftover Pulp"&gt;&lt;span class="in"&gt;Leftover Pulp&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/metal-juicer.html" title="Metal Juicer" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9927_256.jpeg" alt="DSC_9927.jpg" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/metal-juicer.html" title="Metal Juicer"&gt;&lt;span class="in"&gt;Metal Juicer&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/juicing-2.html" title="Juicing 2" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9986_256.jpeg" alt="DSC_9986.jpg" width="256" height="170" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/juicing-2.html" title="Juicing 2"&gt;&lt;span class="in"&gt;Juicing 2&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i7 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/after-juicing.html" title="After Juicing" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9999_256.jpeg" alt="DSC_9999.jpg" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/after-juicing.html" title="After Juicing"&gt;&lt;span class="in"&gt;After Juicing&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i8 e last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/sketch.html" title="Sketch" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9151_256.jpeg" alt="DSC_9151.jpg" width="256" height="194" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/sketch.html" title="Sketch"&gt;&lt;span class="in"&gt;Sketch&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;br /&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 28 Dec 2012 23:50:28 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/orange-juicer/index.htm</guid>
+            
+			
+		</item>
+		<item>
+			<title>Small Projects</title>
+			<link>http://peterascoli.com/undergraduate-engineering/miscellaneous/index.htm</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A selection of smaller projects that demonstrate additional skills. Select an image to view more details.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/nikon-d90-cad-model-2.html" title="Camera CAD" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/peter-ascoli-cad.jpeg" alt="Camera CAD" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/nikon-d90-cad-model-2.html" title="Camera CAD"&gt;&lt;span class="in"&gt;Camera CAD&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html" title="Turkey Cooking FEA Video" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html" title="Turkey Cooking FEA Video"&gt;&lt;span class="in"&gt;Turkey Cooking FEA Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o last-item"&gt;
+								    &lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/anodized-aluminum.html" title="Anodized Aluminum" class="imageLink"&gt;
+									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
+								&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/anodized-aluminum.html" title="Anodized Aluminum"&gt;&lt;span class="in"&gt;Anodized Aluminum&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 28 Dec 2012 23:50:28 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/miscellaneous/index.htm</guid>
+            
+			
+		</item>
+ 	</channel>
+</rss>

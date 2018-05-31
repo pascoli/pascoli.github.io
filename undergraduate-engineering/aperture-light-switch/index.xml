@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>Aperture Light Switch | Peter Ascoli</title>
+		<link>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/index.html</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Thu, 31 May 2018 23:32:26 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.10.7</generator>
+		<item>
+			<title>Close-up</title>
+			<link>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/final-product.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;
+					&lt;div&gt;
+						
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Fri, 15 Mar 2013 04:34:35 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/final-product.html</guid>
+            <enclosure url="http://peterascoli.com/_Media/dscf1530_med.jpeg" length="369944" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Demonstration Video</title>
+			<link>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/demonstrational-video.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div class="Movie graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/4ktHzTklejk?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="900" height="506" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 17 Feb 2013 02:38:26 +0100</pubDate>
+			<guid>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/demonstrational-video.html</guid>
+            
+			
+		</item>
+ 	</channel>
+</rss>
