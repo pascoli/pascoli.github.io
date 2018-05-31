@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
  	<channel>
 		<title>Modular Camera | Peter Ascoli</title>
-		<link>http://peterascoli.com/undergraduate-engineering/modular-camera/index.html</link>
+		<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Thu, 31 May 2018 23:31:57 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 May 2018 23:49:38 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
 			<title>The Three Modules</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/the-three-modules.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/the-three-modules.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The complete camera, minus the digital sensor provided by my Nikon d90.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 23:32:44 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/the-three-modules.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-9_med.jpeg" length="3113570" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/the-three-modules.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-9_med.jpeg" length="3113570" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Focusing &amp; Digital-Back Module</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/focusing--digital-back.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/focusing--digital-back.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Screws on the top of the module back module connecting this portion to the focusing module. As such, one could make a variety of backs that mount to different cameras, or even design their own film-progression mechanism.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 23:32:44 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/focusing--digital-back.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-8_med.jpeg" length="1967095" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/focusing--digital-back.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-8_med.jpeg" length="1967095" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Solenoid Circuitry</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/solenoid-circuitry.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/solenoid-circuitry.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The 4 pin dip-switch provides the camera with 16 different exposure speeds (up to about 1/500th of a second). When the button is pressed, the solenoid is triggered and the shutter opens and closes.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 23:32:44 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/solenoid-circuitry.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-10_med.jpeg" length="2305833" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/solenoid-circuitry.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-10_med.jpeg" length="2305833" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Shutter Demonstration Video</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-demonstrational.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-demonstrational.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;
 					&lt;div class="first graphic-container wide center"&gt;
@@ -62,46 +62,46 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:34 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-demonstrational.html</guid>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-demonstrational.html</guid>
             
 			
 		</item>
 		<item>
 			<title>Lens, Aperture, &amp; Shutter Module</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The fabric on the back of the module allows for the smooth linear motion necessary for proper focusing.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:09 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-7_med.jpeg" length="1970663" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-7_med.jpeg" length="1970663" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Overview</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/overview.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/overview.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;On top you can see the circuit (arduino, op-amp, dip-switch, and push-button) that controls the shutter mechanism. Farthest to the right is the lens-aperture-shutter module. In the middle is the focusing module (this module is stationary and the first module slides in-and-out to focus). The largest wooden rectangular prism (on the left) is the film/digital-back module, which in this instance connects to my Nikon d90.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:09 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/overview.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-1_med.jpeg" length="2055060" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/overview.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-1_med.jpeg" length="2055060" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Exploded CAD Assembly</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-cad-assembly.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-cad-assembly.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;An exploded assembly view to show the shutter, lens, and aperture components as they slide into the module.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:09 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-cad-assembly.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-4_med.jpeg" length="207303" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-cad-assembly.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-4_med.jpeg" length="207303" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Front View</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/front-view.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/front-view.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;
 					&lt;div&gt;
@@ -110,96 +110,96 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:09 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/front-view.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-2_med.jpeg" length="2069683" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/front-view.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-2_med.jpeg" length="2069683" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Shutter Mechanism</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-mechanism.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-mechanism.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A solenoid pin, when triggered, fires the bristol leaf-blade downward and a torsion spring returns the blade to its original position.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:09 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/shutter-mechanism.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-3_med.jpeg" length="1470655" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-mechanism.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-3_med.jpeg" length="1470655" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Exploded Shutter Assembly</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Shutter system design courtesy of &lt;a href="http://www.kadookacameraworks.com/" target="_blank"&gt;MIT’s Kevin Kadooka&lt;/a&gt; - the white components, which create the create the leaf shutter are bristol in this version, compared to laser-cut sheet metal in his version.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:09 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-6_med.jpeg" length="154111" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-6_med.jpeg" length="154111" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Lens, Aperture, &amp; Shutter</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The setup of the lens-aperture-shutter module includes two laser-cut spacers to distance our lens from the other two mechanisms but also to demonstrate the potential variability of the system when given the extra space. For example, one could build a two-element lens system and still have space to insert all of the other components into the module.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 22:56:09 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/lens-aperture--shutter.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/hackathon-winners-5_med.jpeg" length="1223526" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-5_med.jpeg" length="1223526" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Sample Image</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A photograph of my teammate’s eye. Note the incredible detail that the camera's $7 lens is able to resolve!&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 02:54:39 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/camera-5_med.png" length="17785033" type="image/png"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/camera-5_med.png" length="17785033" type="image/png"></enclosure>
 			
 		</item>
 		<item>
 			<title>Sample Image</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-3.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-3.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A clay sculpture. Again, the camera nicely resolves the texture of the clay.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 02:54:39 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-3.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/camera-7_med.png" length="12853445" type="image/png"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-3.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/camera-7_med.png" length="12853445" type="image/png"></enclosure>
 			
 		</item>
 		<item>
 			<title>Sample Image</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-2.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-2.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A gear, with incredible bokeh!&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 02:54:39 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-2.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/camera-6_med.png" length="12108027" type="image/png"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-2.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/camera-6_med.png" length="12108027" type="image/png"></enclosure>
 			
 		</item>
 		<item>
 			<title>Sample Image</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-4.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-4.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p style="color: rgb(0, 0, 0);"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Just because we wanted a funny photograph for when we presented the Hack.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 02:54:39 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-4.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/camera-8_med.png" length="14233565" type="image/png"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-4.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/camera-8_med.png" length="14233565" type="image/png"></enclosure>
 			
 		</item>
 		<item>
 			<title>Sample Image</title>
-			<link>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-5.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-5.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana; color: rgb(0, 0, 0);"&gt;A photo of some electrical components in ‘studio conditions’ to better assess the resolution, contrast, color rendition, and depth-of- field offered by the camera.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 10 Feb 2014 02:54:39 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/modular-camera/sample-image-5.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/camera-10_med.png" length="14019739" type="image/png"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-5.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/camera-10_med.png" length="14019739" type="image/png"></enclosure>
 			
 		</item>
  	</channel>

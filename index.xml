@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
  	<channel>
 		<title>About Me | Peter Ascoli</title>
-		<link>http://peterascoli.com/index.html</link>
+		<link>https://pascoli.github.io/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Thu, 31 May 2018 23:31:21 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 May 2018 23:49:00 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
 			<title>Contact Info</title>
-			<link>http://peterascoli.com/contact-me.html</link>
+			<link>https://pascoli.github.io/contact-me.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;All of my contact information is listed on my &lt;a href="http://peterascoli.com/peter-ascoli-cv-1page.pdf" target="_blank"&gt;resume&lt;/a&gt;. You can also reach me via &lt;a href="http://www.linkedin.com/pub/peter-ascoli/81/35/578" target="_blank"&gt;LinkedIn&lt;/a&gt; or send me an &lt;a href="mailto:peterascoli@gmail.com?subject=Website%20Portfolio%20Inquiry"&gt;email&lt;/a&gt; with the form below.&lt;/span&gt;&lt;/p&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;All of my contact information is listed on my &lt;a href="https://pascoli.github.io/peter-ascoli-cv-1page.pdf" target="_blank"&gt;resume&lt;/a&gt;. You can also reach me via &lt;a href="http://www.linkedin.com/pub/peter-ascoli/81/35/578" target="_blank"&gt;LinkedIn&lt;/a&gt; or send me an &lt;a href="mailto:peterascoli@gmail.com?subject=Website%20Portfolio%20Inquiry"&gt;email&lt;/a&gt; with the form below.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide right"&gt;
 						&lt;div style="" class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
@@ -104,13 +104,13 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Wed, 19 Nov 2014 05:06:26 +0100</pubDate>
-			<guid>http://peterascoli.com/contact-me.html</guid>
+			<guid>https://pascoli.github.io/contact-me.html</guid>
             
 			
 		</item>
 		<item>
 			<title>Undergraduate Engineering Projects</title>
-			<link>http://peterascoli.com/undergraduate-engineering/index.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/index.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A selection of projects that demonstrate my creativity and technical design skills. Please select a project to view.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
@@ -118,75 +118,75 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/second-operation-lathe/index.html" title="Second Operation Lathe" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-25-at.png" alt="Lathe Overview 1" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/second-operation-lathe/index.html" title="Second Operation Lathe"&gt;&lt;span class="in"&gt;Second Operation Lathe&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/second-operation-lathe/index.html" title="Second Operation Lathe" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at.png" alt="Lathe Overview 1" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/second-operation-lathe/index.html" title="Second Operation Lathe"&gt;&lt;span class="in"&gt;Second Operation Lathe&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/carbon-fiber-3d-printing/index.html" title="Carbon Fiber 3D Printing" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-25-at-2.png" alt="Carbon Fiber 3D Printing" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/carbon-fiber-3d-printing/index.html" title="Carbon Fiber 3D Printing"&gt;&lt;span class="in"&gt;Carbon Fiber 3D Printing&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/index.html" title="Carbon Fiber 3D Printing" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at-2.png" alt="Carbon Fiber 3D Printing" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/index.html" title="Carbon Fiber 3D Printing"&gt;&lt;span class="in"&gt;Carbon Fiber 3D Printing&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/lure/index.html" title="LURE" class="imageLink"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/index.html" title="LURE" class="imageLink"&gt;
 									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
 								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/lure/index.html" title="LURE"&gt;&lt;span class="in"&gt;LURE&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/index.html" title="LURE"&gt;&lt;span class="in"&gt;LURE&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/index.html" title="Modular Camera" class="imageLink"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/index.html" title="Modular Camera" class="imageLink"&gt;
 									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
 								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/modular-camera/index.html" title="Modular Camera"&gt;&lt;span class="in"&gt;Modular Camera&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/index.html" title="Modular Camera"&gt;&lt;span class="in"&gt;Modular Camera&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/index.html" title="Shadowgraph Photography Rig" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9884.jpeg" alt="Shadowgraph Photography Rig" width="205" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/shadowgraph-photography-rig/index.html" title="Shadowgraph Photography Rig"&gt;&lt;span class="in"&gt;Shadowgraph Photography Rig&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/index.html" title="Shadowgraph Photography Rig" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_9884.jpeg" alt="Shadowgraph Photography Rig" width="205" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/index.html" title="Shadowgraph Photography Rig"&gt;&lt;span class="in"&gt;Shadowgraph Photography Rig&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i6 e"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/index.html" title="The Pinball Machine" class="imageLink"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/index.html" title="The Pinball Machine" class="imageLink"&gt;
 									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
 								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/the-pinball-machine/index.html" title="The Pinball Machine"&gt;&lt;span class="in"&gt;The Pinball Machine&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/index.html" title="The Pinball Machine"&gt;&lt;span class="in"&gt;The Pinball Machine&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i7 o"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/index.htm" title="Laser Tag" class="imageLink"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/index.htm" title="Laser Tag" class="imageLink"&gt;
 									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
 								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/laser-tag/index.htm" title="Laser Tag"&gt;&lt;span class="in"&gt;Laser Tag&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/index.htm" title="Laser Tag"&gt;&lt;span class="in"&gt;Laser Tag&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i8 e"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/index.html" title="LEGO Ice Cubes" class="imageLink"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/index.html" title="LEGO Ice Cubes" class="imageLink"&gt;
 									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
 								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/molding-lego-ice-cubes/index.html" title="LEGO Ice Cubes"&gt;&lt;span class="in"&gt;LEGO Ice Cubes&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/index.html" title="LEGO Ice Cubes"&gt;&lt;span class="in"&gt;LEGO Ice Cubes&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i9 o"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/index.html" title="Transforming Table" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_5171_256.jpeg" alt="DSC 5171" width="256" height="170" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/transforming-table/index.html" title="Transforming Table"&gt;&lt;span class="in"&gt;Transforming Table&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table/index.html" title="Transforming Table" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_5171_256.jpeg" alt="DSC 5171" width="256" height="170" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table/index.html" title="Transforming Table"&gt;&lt;span class="in"&gt;Transforming Table&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i10 e"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/aperture-light-switch/index.html" title="Aperture Light Switch" class="imageLink"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/index.html" title="Aperture Light Switch" class="imageLink"&gt;
 									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
 								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/aperture-light-switch/index.html" title="Aperture Light Switch"&gt;&lt;span class="in"&gt;Aperture Light Switch&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/index.html" title="Aperture Light Switch"&gt;&lt;span class="in"&gt;Aperture Light Switch&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i11 o"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/index.htm" title="Orange Juicer" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/dsc_9941_256.jpeg" alt="DSC_9941.jpg" width="256" height="169" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/orange-juicer/index.htm" title="Orange Juicer"&gt;&lt;span class="in"&gt;Orange Juicer&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/orange-juicer/index.htm" title="Orange Juicer" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_9941_256.jpeg" alt="DSC_9941.jpg" width="256" height="169" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/orange-juicer/index.htm" title="Orange Juicer"&gt;&lt;span class="in"&gt;Orange Juicer&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i12 e last-item"&gt;
-								    &lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/index.htm" title="Small Projects" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/peter-ascoli-cad.jpeg" alt="Small Projects" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/undergraduate-engineering/miscellaneous/index.htm" title="Small Projects"&gt;&lt;span class="in"&gt;Small Projects&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/index.htm" title="Small Projects" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/peter-ascoli-cad.jpeg" alt="Small Projects" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/index.htm" title="Small Projects"&gt;&lt;span class="in"&gt;Small Projects&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
@@ -197,13 +197,13 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Fri, 28 Dec 2012 23:52:19 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/index.html</guid>
+			<guid>https://pascoli.github.io/undergraduate-engineering/index.html</guid>
             
 			
 		</item>
 		<item>
 			<title>Graduate Engineering</title>
-			<link>http://peterascoli.com/graduate-engineering/index.html</link>
+			<link>https://pascoli.github.io/graduate-engineering/index.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Precision machine design projects that demonstrate my mechanical design skills. Please select a project to view.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
@@ -211,23 +211,23 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="http://peterascoli.com/graduate-engineering/cnc-benchtop-lathe/index.html" title="CNC BB8" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2016-06-14-at.png" alt="CNC BB8" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/graduate-engineering/cnc-benchtop-lathe/index.html" title="CNC BB8"&gt;&lt;span class="in"&gt;CNC BB8&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html" title="CNC BB8" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at.png" alt="CNC BB8" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html" title="CNC BB8"&gt;&lt;span class="in"&gt;CNC BB8&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="http://peterascoli.com/graduate-engineering/cnc-machining-course/index.html" title="CNC Machining Course" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2016-06-14-at.png" alt="CNC Machining Course" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/graduate-engineering/cnc-machining-course/index.html" title="CNC Machining Course"&gt;&lt;span class="in"&gt;CNC Machining Course&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/index.html" title="CNC Machining Course" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at.png" alt="CNC Machining Course" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/index.html" title="CNC Machining Course"&gt;&lt;span class="in"&gt;CNC Machining Course&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="http://peterascoli.com/graduate-engineering/cnc-benchtop-lathe-2/index.html" title="CNC Benchtop Lathe" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2016-06-14-at.png" alt="CNC Benchtop Lathe" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/graduate-engineering/cnc-benchtop-lathe-2/index.html" title="CNC Benchtop Lathe"&gt;&lt;span class="in"&gt;CNC Benchtop Lathe&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2/index.html" title="CNC Benchtop Lathe" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at.png" alt="CNC Benchtop Lathe" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2/index.html" title="CNC Benchtop Lathe"&gt;&lt;span class="in"&gt;CNC Benchtop Lathe&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e last-item"&gt;
-								    &lt;a href="http://peterascoli.com/graduate-engineering/mechanical-apparatus-for/index.html" title="Mechanical Device for 3D Cell Scaffold Compression" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2016-06-15-at.png" alt="Mechanical Device for 3D Cell Scaffold Compression" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/graduate-engineering/mechanical-apparatus-for/index.html" title="Mechanical Device for 3D Cell Scaffold Compression"&gt;&lt;span class="in"&gt;Mechanical Device for 3D Cell Scaffold Compression&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/index.html" title="Mechanical Device for 3D Cell Scaffold Compression" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-15-at.png" alt="Mechanical Device for 3D Cell Scaffold Compression" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/index.html" title="Mechanical Device for 3D Cell Scaffold Compression"&gt;&lt;span class="in"&gt;Mechanical Device for 3D Cell Scaffold Compression&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
@@ -238,13 +238,13 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Fri, 28 Dec 2012 23:52:19 +0100</pubDate>
-			<guid>http://peterascoli.com/graduate-engineering/index.html</guid>
+			<guid>https://pascoli.github.io/graduate-engineering/index.html</guid>
             
 			
 		</item>
 		<item>
 			<title>Photography</title>
-			<link>http://peterascoli.com/photography/index.htm</link>
+			<link>https://pascoli.github.io/photography/index.htm</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;I developed an interest in photography a bit over four years ago. I consider landscapes to be my specialty and I love shooting wide. Click on a genre below to explore my portfolio. My &lt;a href="http://www.flickr.com/photos/95927185@N06/"&gt;Flickr profile&lt;/a&gt; has many more photos in high resolution.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
@@ -252,23 +252,23 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="http://peterascoli.com/photography/landscapes/index.htm" title="Landscape" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-15-at.png" alt="Grand Tetons in Infrared" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/photography/landscapes/index.htm" title="Landscape"&gt;&lt;span class="in"&gt;Landscape&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/photography/landscapes/index.htm" title="Landscape" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-15-at.png" alt="Grand Tetons in Infrared" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/photography/landscapes/index.htm" title="Landscape"&gt;&lt;span class="in"&gt;Landscape&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="http://peterascoli.com/photography/cityscapes/index.htm" title="Cityscape" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-16-at.png" alt="Tribute 2014" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/photography/cityscapes/index.htm" title="Cityscape"&gt;&lt;span class="in"&gt;Cityscape&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/photography/cityscapes/index.htm" title="Cityscape" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-16-at.png" alt="Tribute 2014" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/photography/cityscapes/index.htm" title="Cityscape"&gt;&lt;span class="in"&gt;Cityscape&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="http://peterascoli.com/photography/street/index.htm" title="Street" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-15-at-2.png" alt="Brooklyn Mosaic" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/photography/street/index.htm" title="Street"&gt;&lt;span class="in"&gt;Street&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/photography/street/index.htm" title="Street" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-15-at-2.png" alt="Brooklyn Mosaic" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/photography/street/index.htm" title="Street"&gt;&lt;span class="in"&gt;Street&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e last-item"&gt;
-								    &lt;a href="http://peterascoli.com/photography/abstracts/index.htm" title="Abstract" class="imageLink"&gt;&lt;img src="http://peterascoli.com/_Media/screen-shot-2015-07-15-at-3.png" alt="Glass Floor" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="http://peterascoli.com/photography/abstracts/index.htm" title="Abstract"&gt;&lt;span class="in"&gt;Abstract&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/photography/abstracts/index.htm" title="Abstract" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-15-at-3.png" alt="Glass Floor" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/photography/abstracts/index.htm" title="Abstract"&gt;&lt;span class="in"&gt;Abstract&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
@@ -279,7 +279,7 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Fri, 28 Dec 2012 23:50:28 +0100</pubDate>
-			<guid>http://peterascoli.com/photography/index.htm</guid>
+			<guid>https://pascoli.github.io/photography/index.htm</guid>
             
 			
 		</item>

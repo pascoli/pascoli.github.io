@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
  	<channel>
 		<title>Small Projects | Peter Ascoli</title>
-		<link>http://peterascoli.com/undergraduate-engineering/miscellaneous/index.htm</link>
+		<link>https://pascoli.github.io/undergraduate-engineering/miscellaneous/index.htm</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Thu, 31 May 2018 23:32:29 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 May 2018 23:50:08 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
 			<title>Turkey Cooking FEA Video</title>
-			<link>http://peterascoli.com/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A transient thermal analysis of a [geometrically simple] turkey cooking from oven convection, radiation, and heat generating skewer inserted into the bird. The FEA model utilized temperature-dependent meat properties extrapolated from the 2006 ASHRAE Handbook on Refrigeration.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
@@ -29,30 +29,30 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 24 Nov 2014 05:48:52 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html</guid>
+			<guid>https://pascoli.github.io/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html</guid>
             
 			
 		</item>
 		<item>
 			<title>Anodized Aluminum</title>
-			<link>http://peterascoli.com/undergraduate-engineering/miscellaneous/anodized-aluminum.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/miscellaneous/anodized-aluminum.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;I machined a little container. A beaker broke while I soaking the lid in red dye, leading to the uneven color distribution shown here.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 24 Nov 2014 05:42:15 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/miscellaneous/anodized-aluminum.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/untitled-1_med_med.png" type="image/png"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/miscellaneous/anodized-aluminum.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/untitled-1_med_med.png" type="image/png"></enclosure>
 			
 		</item>
 		<item>
 			<title>Camera CAD</title>
-			<link>http://peterascoli.com/undergraduate-engineering/miscellaneous/nikon-d90-cad-model-2.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/miscellaneous/nikon-d90-cad-model-2.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A model of one of my cameras in Autodesk Inventor. This model took about 30 hours to create.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Mon, 24 Nov 2014 05:42:15 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/miscellaneous/nikon-d90-cad-model-2.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/peter-ascoli-cad_med.png" length="820821" type="image/png"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/miscellaneous/nikon-d90-cad-model-2.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/peter-ascoli-cad_med.png" length="820821" type="image/png"></enclosure>
 			
 		</item>
  	</channel>

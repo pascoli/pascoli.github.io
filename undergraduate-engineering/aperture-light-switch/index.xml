@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
  	<channel>
 		<title>Aperture Light Switch | Peter Ascoli</title>
-		<link>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/index.html</link>
+		<link>https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Thu, 31 May 2018 23:32:26 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 31 May 2018 23:50:04 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
 			<title>Close-up</title>
-			<link>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/final-product.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/final-product.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;
 					&lt;div&gt;
@@ -19,13 +19,13 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Fri, 15 Mar 2013 04:34:35 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/final-product.html</guid>
-            <enclosure url="http://peterascoli.com/_Media/dscf1530_med.jpeg" length="369944" type="image/jpeg"></enclosure>
+			<guid>https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/final-product.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dscf1530_med.jpeg" length="369944" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Demonstration Video</title>
-			<link>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/demonstrational-video.html</link>
+			<link>https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/demonstrational-video.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;
 					&lt;div class="first graphic-container wide center"&gt;
@@ -44,7 +44,7 @@
 				&lt;/div&gt;
 			</description>
 			<pubDate>Sun, 17 Feb 2013 02:38:26 +0100</pubDate>
-			<guid>http://peterascoli.com/undergraduate-engineering/aperture-light-switch/demonstrational-video.html</guid>
+			<guid>https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/demonstrational-video.html</guid>
             
 			
 		</item>
