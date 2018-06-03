@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Fri, 01 Jun 2018 09:55:03 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 03 Jun 2018 16:37:32 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
@@ -100,21 +100,21 @@
 			<title>CFRP Filament</title>
 			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-04-28-at.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;An ABS-matrix CFRP filament was manufactured by dipping a 1K carbon fiber tow through an ABS-acetone solution. As with any material there were defects, but they appeared to be of negligible effect when printing since the ABS melts in the extruder. [ABS in orange, carbon fiber in black]&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;An ABS-matrix CFRP filament was manufactured by dipping a 1K carbon fiber tow through an ABS-acetone solution. As with any material there were defects, but they appeared to be of negligible effect when printing since the ABS melts in the extruder. [ABS in orange, carbon fiber in black]&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Sat, 25 Jul 2015 23:48:20 +0200</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-04-28-at.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-04-28-at_med.png" type="image/png"></enclosure>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-04-28_med.png" length="1239825" type="image/png"></enclosure>
 			
 		</item>
 		<item>
-			<title>Poster Presentation</title>
-			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/poster-letter.pdf</link>
+			<title>peter_ascoli_jackie_song_hw_med_hr.jpeg</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/peter_ascoli_jackie_song_hw.jpeg</link>
 			<description>
 				
 			</description>
 			<pubDate>Sat, 25 Jul 2015 23:43:28 +0200</pubDate>
-			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/poster-letter.pdf</guid>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/peter_ascoli_jackie_song_hw.jpeg</guid>
             
 			
 		</item>
@@ -133,11 +133,11 @@
 			<title>Pultrusion</title>
 			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/pultrusion.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Pultruding 1K carbon fiber strands with ABS using a &lt;a href="http://the3doodler.com/" target="_blank"&gt;3Doodler&lt;/a&gt; in an early CFRP 3D printing proof-of-concept.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Pultruding 1K carbon fiber strands with ABS using a &lt;a href="http://the3doodler.com/" target="_blank"&gt;3Doodler&lt;/a&gt; in an early CFRP 3D printing proof-of-concept.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Thu, 16 Oct 2014 02:44:13 +0200</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/pultrusion.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2014-10-15-at_med.png" type="image/png"></enclosure>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2014-10-15_med.png" length="473554" type="image/png"></enclosure>
 			
 		</item>
  	</channel>

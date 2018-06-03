@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=1024" />
 		<link rel="shortcut icon" type="image/x-icon" href="" />
 		<link rel="alternate" type="application/rss+xml" title="RSS: CNC BB8" href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.xml" />
-		<link rel="image_src" href="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at.png" type="image/png" />
+		<link rel="image_src" href="https://pascoli.github.io/_Media/action_sq-2.png" type="image/png" />
 		<link rel="canonical" href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html" />
 		
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400" />
@@ -60,7 +60,7 @@
 											<li class="i1 o"><a href="../../undergraduate-engineering/second-operation-lathe/index.html" title="Second Operation Lathe"><span class="in">Second Operation Lathe</span></a></li>
 											<li class="i2 e"><a href="../../undergraduate-engineering/carbon-fiber-3d-printing/index.html" title="Carbon Fiber 3D Printing"><span class="in">Carbon Fiber 3D Printing</span></a></li>
 											<li class="i3 o"><a href="../../undergraduate-engineering/lure/index.html" title="LURE"><span class="in">LURE</span></a></li>
-											<li class="i4 e"><a href="../../undergraduate-engineering/modular-camera/index.html" title="Modular Camera"><span class="in">Modular Camera</span></a></li>
+											<li class="i4 e"><a href="../../undergraduate-engineering/modular-camera/index.html" title="Modular [Laser Cut] Camera"><span class="in">Modular [Laser Cut] Camera</span></a></li>
 											<li class="i5 o"><a href="../../undergraduate-engineering/shadowgraph-photography-rig/index.html" title="Shadowgraph Photography Rig"><span class="in">Shadowgraph Photography</span></a></li>
 											<li class="i6 e"><a href="../../undergraduate-engineering/the-pinball-machine/index.html" title="The Pinball Machine"><span class="in">The Pinball Machine</span></a></li>
 											<li class="i7 o"><a href="../../undergraduate-engineering/laser-tag/index.htm" title="Laser Tag"><span class="in">Laser Tag</span></a></li>
@@ -94,20 +94,40 @@
 							<div class="article">
 								<div class="article-content">
 									<div class="RichTextElement">
-										<div><p><span style="font-size: 14px; font-family: Verdana;">My most complex design project to date, this CNC benchtop lathe is designed to turn aluminum and steel with at least 50um precision. Lead screw actuated x-feed and z-feed mechanisms can be controlled with dials or via stepper motors for CNC operation. The z-direction translation system comprises an aluminum carriage, bronze bushings, and steel rails. The carriage mounts to one of the guide rails via a 2-DOF flexure to relieve overconstraint. A 4-DOF flexure attaches the lead screw drive nut to the carriage, again to eliminate overconstraint. The x-direction translation system (cross feed) is a 1-DOF flexure bearing stage, which mounts the tool post. The spindle contains a steel shaft, two tapered roller bearings (for better shaft moment resistance, and to avoid thermal runaway), an aluminum housing, a chuck, and is driven with a V-belt transmission.</span></p><p><span style="font-size: 14px; font-family: Verdana;">The design of the machine was formulated around a homogenous tranform matrix (HTM) model to track alignment/machinining errors and component deformations under turning forces, ensuring that the required precision would be met. I personally designed the three flexure mechanisms using finite element analysis (SolidWorks and Abaqus), contributed to the design of the spindle, x-feed and z-feed drive mechanisms, and contributed to the development of the HTM model. Nearly all parts were machined at MIT on the mill, lathe, and water jet, after which the lathe was assembled and tested.</span></p><p><span style="font-size: 14px; font-family: Verdana;">Runout and eccentricity measurements of the spindle were taken to the optimize spindle bearing axial preload. CMM (coordinate measuring machine) measurements of the cross feed flexure stage were taken while moving the x and z axes to verify that x, y, z, pitch, roll, and yaw error motions of the tool were acceptable and shimming was not required. Turning tests showed a taper error of 17um, an eccentricity and runout error of 16um, and mean diametric error of 26um, subsequently meeting the precision requirement with 35um RMS error. The lathe also successfully passed three <em>death tests</em>. First, the chuck was hit repeatedly with a sledgehammer to verify proper spindle bearing preload. Second, a person stood on the flexure stage and was manually translated in the along the x and z axis to check that flexures were sufficiently stiff in their degrees of constraint. Finally, the lathe was dropped from 1m to check that the flexures contained appropriate hardstops for avoiding buckling and yielding under the impact.</span></p>
+										<div><p><span style="font-size: 14px; font-family: Verdana;">CNC BB8 (Star Wars Droid) was a personal project I undertook to get better at CAM and CNC machining. All metallic components (aside from the main shaft) were CNC 3-axis milled, even if water jetting, or another method may have been simpler. A single degree-of-freedom pendulum, and magenetic coupling secure and balance the head. The pendulum utilizes a copper ballast to counteract the mass of the head. Laser cut acrylic flexures support a 3D-printed block with press-fit magnets. The flexures were implemented to give the head a ‘bobble’. The head contains support wheels and magnets for coupling the head to the body. The orientations of the magnets are flipped so that opposite adjacent poles serve as a high magentic shear stiffness. I ultimately ran out of time before leaving Boston to CNC the main body, so a 3D printed shell has to do for now. For its prototype nature, I commonly call this project </span><em style="font-family: Verdana; font-size: 14px;">BetaBeta8</em><span style="font-size: 14px; font-family: Verdana;">.</span></p>
 											
 											<div class="first graphic-container wide center">
 												<div style="" class="photogrid-index graphic">
 													<div class="figure-content">
 														<!-- sandvox.PhotoGridIndex -->
 														<div class="gridItem i1 o">
-														    <a href="lathe-overview.html" title="Lathe Overview" class="imageLink"><img src="../../_Media/screen-shot-2016-06-14-at.png" alt="Lathe Overview" width="256" height="256" /></a>
-														    <h3><a href="lathe-overview.html" title="Lathe Overview"><span class="in">Lathe Overview</span></a></h3>
+														    <a href="turning-video.html" title="Demo Video" class="imageLink"><img src="../../_Media/action_sq-2.png" alt="Demo Video" width="256" height="256" /></a>
+														    <h3><a href="turning-video.html" title="Demo Video"><span class="in">Demo Video</span></a></h3>
 														    
 														</div>
-														<div class="gridItem i2 e last-item">
-														    <a href="turning-video.html" title="Turning Video" class="imageLink"><img src="../../_Media/screen-shot-2016-06-16-at_hr.png" alt="Turning Video" width="256" height="256" /></a>
-														    <h3><a href="turning-video.html" title="Turning Video"><span class="in">Turning Video</span></a></h3>
+														<div class="gridItem i2 e">
+														    <a href="lathe-overview.html" title="Sketch" class="imageLink"><img src="../../_Media/sketch_sq-2.jpeg" alt="Sketch" width="256" height="256" /></a>
+														    <h3><a href="lathe-overview.html" title="Sketch"><span class="in">Sketch</span></a></h3>
+														    
+														</div>
+														<div class="gridItem i3 o">
+														    <a href="cnc-machining.html" title="CNC Machining" class="imageLink"><img src="../../_Media/cnc_sq.jpeg" alt="CNC Machining" width="256" height="256" /></a>
+														    <h3><a href="cnc-machining.html" title="CNC Machining"><span class="in">CNC Machining</span></a></h3>
+														    
+														</div>
+														<div class="gridItem i4 e">
+														    <a href="head-subassembly.html" title="Head Subassembly" class="imageLink"><img src="../../_Media/head_sq.jpeg" alt="Head Subassembly" width="256" height="256" /></a>
+														    <h3><a href="head-subassembly.html" title="Head Subassembly"><span class="in">Head Subassembly</span></a></h3>
+														    
+														</div>
+														<div class="gridItem i5 o">
+														    <a href="pendulum-subassembly.html" title="Pendulum Subassembly" class="imageLink"><img src="../../_Media/pendulum_sq.jpeg" alt="Pendulum Subassembly" width="256" height="256" /></a>
+														    <h3><a href="pendulum-subassembly.html" title="Pendulum Subassembly"><span class="in">Pendulum Subassembly</span></a></h3>
+														    
+														</div>
+														<div class="gridItem i6 e last-item">
+														    <a href="fit-test.html" title="Fit Test" class="imageLink"><img src="../../_Media/int_cross_sq.jpeg" alt="Fit Test" width="256" height="256" /></a>
+														    <h3><a href="fit-test.html" title="Fit Test"><span class="in">Fit Test</span></a></h3>
 														    
 														</div>
 														<div class="photogrid-index-bottom"></div>

@@ -5,14 +5,55 @@
 		<link>https://pascoli.github.io/graduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Fri, 01 Jun 2018 00:05:11 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 03 Jun 2018 16:37:20 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
 			<title>CNC BB8</title>
 			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;My most complex design project to date, this CNC benchtop lathe is designed to turn aluminum and steel with at least 50um precision. Lead screw actuated x-feed and z-feed mechanisms can be controlled with dials or via stepper motors for CNC operation. The z-direction translation system comprises an aluminum carriage, bronze bushings, and steel rails. The carriage mounts to one of the guide rails via a 2-DOF flexure to relieve overconstraint. A 4-DOF flexure attaches the lead screw drive nut to the carriage, again to eliminate overconstraint. The x-direction translation system (cross feed) is a 1-DOF flexure bearing stage, which mounts the tool post. The spindle contains a steel shaft, two tapered roller bearings (for better shaft moment resistance, and to avoid thermal runaway), an aluminum housing, a chuck, and is driven with a V-belt transmission.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The design of the machine was formulated around a homogenous tranform matrix (HTM) model to track alignment/machinining errors and component deformations under turning forces, ensuring that the required precision would be met. I personally designed the three flexure mechanisms using finite element analysis (SolidWorks and Abaqus), contributed to the design of the spindle, x-feed and z-feed drive mechanisms, and contributed to the development of the HTM model. Nearly all parts were machined at MIT on the mill, lathe, and water jet, after which the lathe was assembled and tested.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;CNC BB8 (Star Wars Droid) was a personal project I undertook to get better at CAM and CNC machining. All metallic components (aside from the main shaft) were CNC 3-axis milled, even if water jetting, or another method may have been simpler. A single degree-of-freedom pendulum, and magenetic coupling secure and balance the head. The pendulum utilizes a copper ballast to counteract the mass of the head. Laser cut acrylic flexures support a 3D-printed block with press-fit magnets. The flexures were implemented to give the head a ‘bobble’. The head contains support wheels and magnets for coupling the head to the body. The orientations of the magnets are flipped so that opposite adjacent poles serve as a high magentic shear stiffness. I ultimately ran out of time before leaving Boston to CNC the main body, so a 3D printed shell has to do for now. For its prototype nature, I commonly call this project&lt;/span&gt; &lt;em style="font-family: Verdana; font-size: 14px;"&gt;BetaBeta8&lt;/em&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;.&lt;/span&gt;
+					&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div style="" class="photogrid-index graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.PhotoGridIndex --&gt;
+								&lt;div class="gridItem i1 o"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/turning-video.html" title="Demo Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/action_sq-2.png" alt="Demo Video" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/turning-video.html" title="Demo Video"&gt;&lt;span class="in"&gt;Demo Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/lathe-overview.html" title="Sketch" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/sketch_sq-2.jpeg" alt="Sketch" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/lathe-overview.html" title="Sketch"&gt;&lt;span class="in"&gt;Sketch&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/cnc-machining.html" title="CNC Machining" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/cnc_sq.jpeg" alt="CNC Machining" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/cnc-machining.html" title="CNC Machining"&gt;&lt;span class="in"&gt;CNC Machining&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/head-subassembly.html" title="Head Subassembly" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/head_sq.jpeg" alt="Head Subassembly" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/head-subassembly.html" title="Head Subassembly"&gt;&lt;span class="in"&gt;Head Subassembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/pendulum-subassembly.html" title="Pendulum Subassembly" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/pendulum_sq.jpeg" alt="Pendulum Subassembly" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/pendulum-subassembly.html" title="Pendulum Subassembly"&gt;&lt;span class="in"&gt;Pendulum Subassembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e last-item"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/fit-test.html" title="Fit Test" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/int_cross_sq.jpeg" alt="Fit Test" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/fit-test.html" title="Fit Test"&gt;&lt;span class="in"&gt;Fit Test&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html</guid>
@@ -23,19 +64,44 @@
 			<title>CNC Machining Course</title>
 			<link>https://pascoli.github.io/graduate-engineering/cnc-machining-course/index.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Shameless &lt;a href="http://makerworks.mit.edu/" target="_blank"&gt;MIT Makerworkshop&lt;/a&gt; promotion.&lt;/span&gt;&lt;/p&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;As part of the &lt;a href="http://makerworks.mit.edu/" target="_blank"&gt;MIT Makerworkshop&lt;/a&gt;, I helped organize and teach a week-long CNC machining course. Students learned an introduction to the mechanics behind feed and speed selections, how to use GWizard (a feeds and speeds selection software), and machined their very own centrifugal pumps on 3-axis ProtoTrak mills using conversatial CNC, DXF conversion to G code, and HSMWorks CAM software in SolidWorks. Instructors held lectures and milling demonstrations, designed the pump to be machined by students, and helped guide students with their machining workflow and CNC programming decisions. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;The pump required students to CNC machine a Delrin impeller, an aluminum impeller housing, and an aluminum baseplate. Various 3D-printed (ie. motor mount) and laser cut components were supplied by instructors.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
 						&lt;div style="" class="photogrid-index graphic"&gt;
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/lathe-overview.html" title="Lathe Overview" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at.png" alt="Lathe Overview" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/lathe-overview.html" title="Lathe Overview"&gt;&lt;span class="in"&gt;Lathe Overview&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/turning-video.html" title="Demo Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/pumpvid_sq.png" alt="Demo Video" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/turning-video.html" title="Demo Video"&gt;&lt;span class="in"&gt;Demo Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i2 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/turning-video.html" title="Turning Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-16-at_hr.png" alt="Turning Video" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/turning-video.html" title="Turning Video"&gt;&lt;span class="in"&gt;Turning Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								&lt;div class="gridItem i2 e"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/machining-video.html" title="Machining Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/machvid_sq.png" alt="Machining Video" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/machining-video.html" title="Machining Video"&gt;&lt;span class="in"&gt;Machining Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i3 o"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/pump-overview.html" title="Pump Overview" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/pumps_sq.jpeg" alt="Pump Overview" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/pump-overview.html" title="Pump Overview"&gt;&lt;span class="in"&gt;Pump Overview&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i4 e"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/impeller-and-housing.html" title="Impeller and Housing" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/imp_sq.jpeg" alt="Impeller and Housing" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/impeller-and-housing.html" title="Impeller and Housing"&gt;&lt;span class="in"&gt;Impeller and Housing&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i5 o"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/fit-checks.html" title="Fit Checks" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/assy_sq.jpeg" alt="Fit Checks" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/fit-checks.html" title="Fit Checks"&gt;&lt;span class="in"&gt;Fit Checks&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/o-ring-grove-machining.html" title="O-Ring Grove Machining" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/bubble_sq-2.jpeg" alt="O-Ring Grove Machining" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/o-ring-grove-machining.html" title="O-Ring Grove Machining"&gt;&lt;span class="in"&gt;O-Ring Grove Machining&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+								    
+								&lt;/div&gt;
+								&lt;div class="gridItem i7 o last-item"&gt;
+								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/conversational-cnc.html" title="Conversational CNC" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dro_sq.jpeg" alt="Conversational CNC" width="256" height="256" /&gt;&lt;/a&gt;
+								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/conversational-cnc.html" title="Conversational CNC"&gt;&lt;span class="in"&gt;Conversational CNC&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;

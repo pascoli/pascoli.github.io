@@ -5,11 +5,11 @@
 		<link>https://pascoli.github.io/undergraduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Fri, 01 Jun 2018 00:05:28 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 03 Jun 2018 16:37:30 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
-			<title>Modular Camera</title>
+			<title>Modular [Laser Cut] Camera</title>
 			<link>https://pascoli.github.io/undergraduate-engineering/modular-camera/index.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Modular Camera was designed, built, and tested by&lt;/span&gt; &lt;a href="https://www.linkedin.com/in/chriscurro" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Chris Curro&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;and I in 24 hours at a&lt;/span&gt; &lt;a href="https://www.hackerleague.org/hackathons/hackcooper" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Cooper Union Hackathon&lt;/a&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;. As photoenthusiasts we decided to create a laser-cut modular camera system during the event. The camera has three modules. The first holds the lens(es), shutter and aperture. The second is a translatable focusing module. The third mounts a film or digital back. The configuration shown below holds a 120mm FL positive meniscus lens, a f/11 circular aperture, and a single blade leaf shutter. As a modular system, we created many other aperture shapes and sizes, and one could create different shutter mechanisms, optical lens stacks, and a variety of camera backs (digital, medium format, polaroid, etc.). My Nikon d90 was used during the Hackathon to efficiently demonstrate the potential of the Hack. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;Modular Camera won &lt;em&gt;Most Technical Hack&lt;/em&gt; at HackCooper 2014.&lt;/span&gt;
@@ -19,114 +19,82 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/overview.html" title="Overview" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/overview.html" title="Overview" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-3.jpeg" alt="Overview" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/overview.html" title="Overview"&gt;&lt;span class="in"&gt;Overview&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/front-view.html" title="Front View" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/front-view.html" title="Front View" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23.jpeg" alt="Front View" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/front-view.html" title="Front View"&gt;&lt;span class="in"&gt;Front View&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-mechanism.html" title="Shutter Mechanism" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-mechanism.html" title="Shutter Mechanism" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-4.jpeg" alt="Shutter Mechanism" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-mechanism.html" title="Shutter Mechanism"&gt;&lt;span class="in"&gt;Shutter Mechanism&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-cad-assembly.html" title="Exploded CAD Assembly" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-cad-assembly.html" title="Exploded CAD Assembly" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-5.jpeg" alt="Exploded CAD Assembly" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-cad-assembly.html" title="Exploded CAD Assembly"&gt;&lt;span class="in"&gt;Exploded CAD Assembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter.html" title="Lens, Aperture, &amp;amp; Shutter" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter.html" title="Lens, Aperture, &amp;amp; Shutter" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at.jpeg" alt="Lens, Aperture, &amp;amp; Shutter" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter.html" title="Lens, Aperture, &amp;amp; Shutter"&gt;&lt;span class="in"&gt;Lens, Aperture, &amp;amp; Shutter&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i6 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html" title="Exploded Shutter Assembly" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html" title="Exploded Shutter Assembly" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-6.jpeg" alt="Exploded Shutter Assembly" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/exploded-shutter-assembly.html" title="Exploded Shutter Assembly"&gt;&lt;span class="in"&gt;Exploded Shutter Assembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i7 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-demonstrational.html" title="Shutter Demonstration Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-demonstrational.html" title="Shutter Demonstration Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-2.jpeg" alt="Shutter Demonstration Video" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/shutter-demonstrational.html" title="Shutter Demonstration Video"&gt;&lt;span class="in"&gt;Shutter Demonstration Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i8 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html" title="Lens, Aperture, &amp;amp; Shutter Module" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html" title="Lens, Aperture, &amp;amp; Shutter Module" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-6.jpeg" alt="Lens, Aperture, &amp;amp; Shutter Module" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/lens-aperture--shutter-2.html" title="Lens, Aperture, &amp;amp; Shutter Module"&gt;&lt;span class="in"&gt;Lens, Aperture, &amp;amp; Shutter Module&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i9 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/focusing--digital-back.html" title="Focusing &amp;amp; Digital-Back Module" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/focusing--digital-back.html" title="Focusing &amp;amp; Digital-Back Module" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-7.jpeg" alt="Focusing &amp;amp; Digital-Back Module" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/focusing--digital-back.html" title="Focusing &amp;amp; Digital-Back Module"&gt;&lt;span class="in"&gt;Focusing &amp;amp; Digital-Back Module&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i10 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/the-three-modules.html" title="The Three Modules" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/the-three-modules.html" title="The Three Modules" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-2-2.jpeg" alt="The Three Modules" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/the-three-modules.html" title="The Three Modules"&gt;&lt;span class="in"&gt;The Three Modules&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i11 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/solenoid-circuitry.html" title="Solenoid Circuitry" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/solenoid-circuitry.html" title="Solenoid Circuitry" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-8.jpeg" alt="Solenoid Circuitry" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/solenoid-circuitry.html" title="Solenoid Circuitry"&gt;&lt;span class="in"&gt;Solenoid Circuitry&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i12 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-7.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i13 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-2.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-2.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-9.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-2.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i14 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-3.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-3.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-8.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-3.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i15 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-4.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-4.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-10.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-4.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i16 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-5.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-5.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-9.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/sample-image-5.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -153,9 +121,7 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/lure.html" title="LURE" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/lure.html" title="LURE" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/madora_med_hr-2.jpeg" alt="LURE" width="217" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/lure.html" title="LURE"&gt;&lt;span class="in"&gt;LURE&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -170,65 +136,42 @@
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/operational-video.html" title="Operational Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/operational-video.html" title="Operational Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-10.jpeg" alt="Operational Video" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/operational-video.html" title="Operational Video"&gt;&lt;span class="in"&gt;Operational Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/truss-assembly-jig.html" title="Truss Assembly Jig" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/truss-assembly-jig.html" title="Truss Assembly Jig"&gt;&lt;span class="in"&gt;Truss Assembly Jig&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i6 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/approaching-completion.html" title="Approaching Completion" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/approaching-completion.html" title="Approaching Completion" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-11.jpeg" alt="Approaching Completion" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/approaching-completion.html" title="Approaching Completion"&gt;&lt;span class="in"&gt;Approaching Completion&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i7 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/mounted-rope--pyrite.html" title="Mounted Rope &amp;amp; Pyrite" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								&lt;div class="gridItem i6 e"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/mounted-rope--pyrite.html" title="Mounted Rope &amp;amp; Pyrite" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-12.jpeg" alt="Mounted Rope &amp;amp; Pyrite" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/mounted-rope--pyrite.html" title="Mounted Rope &amp;amp; Pyrite"&gt;&lt;span class="in"&gt;Mounted Rope &amp;amp; Pyrite&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i8 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/bottom-structure-actuation.html" title="Bottom Structure Actuation" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								&lt;div class="gridItem i7 o"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/bottom-structure-actuation.html" title="Bottom Structure Actuation" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-13.jpeg" alt="Bottom Structure Actuation" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/bottom-structure-actuation.html" title="Bottom Structure Actuation"&gt;&lt;span class="in"&gt;Bottom Structure Actuation&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i9 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/inside-the-base.html" title="Inside the Base" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								&lt;div class="gridItem i8 e"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/inside-the-base.html" title="Inside the Base" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-11.jpeg" alt="Inside the Base" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/inside-the-base.html" title="Inside the Base"&gt;&lt;span class="in"&gt;Inside the Base&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i10 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/close-up.html" title="Close-Up" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								&lt;div class="gridItem i9 o"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/close-up.html" title="Close-Up" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-12.jpeg" alt="Close-Up" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/close-up.html" title="Close-Up"&gt;&lt;span class="in"&gt;Close-Up&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i11 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/mounted-crow-feathers.html" title="Mounted Crow Feathers" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								&lt;div class="gridItem i10 e"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/mounted-crow-feathers.html" title="Mounted Crow Feathers" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-14.jpeg" alt="Mounted Crow Feathers" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/mounted-crow-feathers.html" title="Mounted Crow Feathers"&gt;&lt;span class="in"&gt;Mounted Crow Feathers&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i12 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/open-base.html" title="Open Base" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								&lt;div class="gridItem i11 o last-item"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/open-base.html" title="Open Base" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-15.jpeg" alt="Open Base" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/open-base.html" title="Open Base"&gt;&lt;span class="in"&gt;Open Base&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -276,79 +219,57 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/summary-video.html" title="Summary Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/summary-video.html" title="Summary Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-13.jpeg" alt="Summary Video" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/summary-video.html" title="Summary Video"&gt;&lt;span class="in"&gt;Summary Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/proof-of-concept.html" title="Proof-of-Concept" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/proof-of-concept.html" title="Proof-of-Concept" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-16.jpeg" alt="Proof-of-Concept" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/proof-of-concept.html" title="Proof-of-Concept"&gt;&lt;span class="in"&gt;Proof-of-Concept&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/cad-render.html" title="CAD Render" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/cad-render.html" title="CAD Render" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-17.jpeg" alt="CAD Render" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/cad-render.html" title="CAD Render"&gt;&lt;span class="in"&gt;CAD Render&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/physical-setup.html" title="Physical Setup" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/physical-setup.html" title="Physical Setup" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-14.jpeg" alt="Physical Setup" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/physical-setup.html" title="Physical Setup"&gt;&lt;span class="in"&gt;Physical Setup&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/combustion-experimentation.html" title="Combustion Experimentation" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/combustion-experimentation.html" title="Combustion Experimentation" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-18.jpeg" alt="Combustion Experimentation" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/combustion-experimentation.html" title="Combustion Experimentation"&gt;&lt;span class="in"&gt;Combustion Experimentation&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i6 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-15.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i7 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-3.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-3.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-19.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-3.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i8 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-2.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-2.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-16.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-2.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i9 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-4.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-4.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-20.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-4.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i10 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-5.html" title="Sample Image" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-5.html" title="Sample Image" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-17.jpeg" alt="Sample Image" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/sample-image-5.html" title="Sample Image"&gt;&lt;span class="in"&gt;Sample Image&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i11 o last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/shadowgraph-video.html" title="Shadowgraph Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/shadowgraph-video.html" title="Shadowgraph Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-21.jpeg" alt="Shadowgraph Video" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/shadowgraph-video.html" title="Shadowgraph Video"&gt;&lt;span class="in"&gt;Shadowgraph Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -374,30 +295,22 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/the-mold-and-the-part.html" title="The Mold and the Part" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/the-mold-and-the-part.html" title="The Mold and the Part" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-22.jpeg" alt="The Mold and the Part" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/the-mold-and-the-part.html" title="The Mold and the Part"&gt;&lt;span class="in"&gt;The Mold and the Part&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/creating-the-mold.html" title="Creating the Mold" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/creating-the-mold.html" title="Creating the Mold" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-23.jpeg" alt="Creating the Mold" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/creating-the-mold.html" title="Creating the Mold"&gt;&lt;span class="in"&gt;Creating the Mold&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/peter-ascoli-ice-cube.pdf" title="EOYS Poster" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/peter-ascoli-ice-cube.pdf" title="EOYS Poster" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-24.jpeg" alt="EOYS Poster" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/peter-ascoli-ice-cube.pdf" title="EOYS Poster"&gt;&lt;span class="in"&gt;EOYS Poster&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/lego-ice-cubes-in-use.html" title="LEGO Ice Cubes in Use" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/lego-ice-cubes-in-use.html" title="LEGO Ice Cubes in Use" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-25.jpeg" alt="LEGO Ice Cubes in Use" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/lego-ice-cubes-in-use.html" title="LEGO Ice Cubes in Use"&gt;&lt;span class="in"&gt;LEGO Ice Cubes in Use&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -423,16 +336,12 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/demonstrational-video.html" title="Demonstration Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/demonstrational-video.html" title="Demonstration Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2018-06-03-at.png" alt="Demonstration Video" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/demonstrational-video.html" title="Demonstration Video"&gt;&lt;span class="in"&gt;Demonstration Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/final-product.html" title="Close-up" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/final-product.html" title="Close-up" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-26.jpeg" alt="Close-up" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/final-product.html" title="Close-up"&gt;&lt;span class="in"&gt;Close-up&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -458,7 +367,7 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table/cad-renders.html" title="CAD Renders" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/untitled-1_256.jpeg" alt="Print" width="256" height="161" /&gt;&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table/cad-renders.html" title="CAD Renders" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/untitled-1_med-2_256.jpeg" alt="untitled-1 med-2" width="256" height="161" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table/cad-renders.html" title="CAD Renders"&gt;&lt;span class="in"&gt;CAD Renders&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -513,79 +422,59 @@
 			<title>The Pinball Machine</title>
 			<link>https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/index.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The Pinball Machine is an electro-mechanical multi-level arcade game designed and built spring 2012. The player is challenged to navigated top-down through three levels filled with bumpers, kickers, pop-up targets and tunnels. Solenoids control impulsive obstacles, kickers and bumpers, which are triggered by mechanical limit switches or piezo sensors wired in reverse to detect impact vibrations. Servo motors actuate pop-up targets that raise from the floor. Flippers are fully mechanical to accomodate the small level size since sufficiently powerful solenoids do not fit in such a small game. The pamphlet below, produced by&lt;/span&gt; &lt;a href="http://taylorwoods.me/" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Taylor Woods&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;for Cooper’s End of Year Show, thoroughly details the mechanisms and design choices.&lt;/span&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The Pinball Machine is an electro-mechanical multi-level arcade game designed and built spring 2012. The player is challenged to navigated top-down through three levels filled with bumpers, kickers, pop-up targets and tunnels. Solenoids control impulsive obstacles, kickers and bumpers, which are triggered by mechanical limit switches or piezo sensors wired in reverse to detect impact vibrations. Servo motors actuate pop-up targets that raise from the floor. Flippers are fully mechanical to accomodate the small level size since sufficiently powerful solenoids do not fit in such a small game. The pamphlet below, produced by&lt;/span&gt; &lt;a href="http://taylorwoods.me/" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Taylor Woods&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;for Cooper’s End of Year Show, outlines the mechanisms and design choices.&lt;/span&gt;
 					&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
 						&lt;div style="" class="photogrid-index graphic"&gt;
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/pinball.pdf" title="Pinball Pamphlet" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/pinball.pdf" title="Pinball Pamphlet" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-18.jpeg" alt="Pinball Pamphlet" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/pinball.pdf" title="Pinball Pamphlet"&gt;&lt;span class="in"&gt;Pinball Pamphlet&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/eoys.html" title="EOYS" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/eoys.html" title="EOYS" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dscf2525_med_hr-2.jpeg" alt="EOYS" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/eoys.html" title="EOYS"&gt;&lt;span class="in"&gt;EOYS&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/finished-top-level.html" title="Finished Top Level" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/finished-top-level.html" title="Finished Top Level" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-3.jpeg" alt="Finished Top Level" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/finished-top-level.html" title="Finished Top Level"&gt;&lt;span class="in"&gt;Finished Top Level&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/tunnels-and-transitions.html" title="Tunnels and Transitions" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/tunnels-and-transitions.html" title="Tunnels and Transitions" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-19.jpeg" alt="Tunnels and Transitions" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/tunnels-and-transitions.html" title="Tunnels and Transitions"&gt;&lt;span class="in"&gt;Tunnels and Transitions&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/launching-ramp--bumpers.html" title="Launching Ramp &amp;amp; Bumpers" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/launching-ramp--bumpers.html" title="Launching Ramp &amp;amp; Bumpers" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-27.jpeg" alt="Launching Ramp &amp;amp; Bumpers" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/launching-ramp--bumpers.html" title="Launching Ramp &amp;amp; Bumpers"&gt;&lt;span class="in"&gt;Launching Ramp &amp;amp; Bumpers&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i6 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/reservoir-tubes.html" title="Reservoir Tubes" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/reservoir-tubes.html" title="Reservoir Tubes" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-28.jpeg" alt="Reservoir Tubes" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/reservoir-tubes.html" title="Reservoir Tubes"&gt;&lt;span class="in"&gt;Reservoir Tubes&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i7 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/flipper-mechanism.html" title="Flipper Mechanism" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/flipper-mechanism.html" title="Flipper Mechanism" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-29.jpeg" alt="Flipper Mechanism" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/flipper-mechanism.html" title="Flipper Mechanism"&gt;&lt;span class="in"&gt;Flipper Mechanism&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i8 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/upper-level-nearing-complet.html" title="Upper Level Nearing Completion" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/upper-level-nearing-complet.html" title="Upper Level Nearing Completion" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-30.jpeg" alt="Upper Level Nearing Completion" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/upper-level-nearing-complet.html" title="Upper Level Nearing Completion"&gt;&lt;span class="in"&gt;Upper Level Nearing Completion&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i9 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/early-stages-of-fabrication.html" title="Early Stages of Fabrication" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/early-stages-of-fabrication.html" title="Early Stages of Fabrication" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-20.jpeg" alt="Early Stages of Fabrication" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/early-stages-of-fabrication.html" title="Early Stages of Fabrication"&gt;&lt;span class="in"&gt;Early Stages of Fabrication&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i10 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/bumper-cad.html" title="Bumper CAD" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/bumper-cad.html" title="Bumper CAD" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-31.jpeg" alt="Bumper CAD" width="220" height="220" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/bumper-cad.html" title="Bumper CAD"&gt;&lt;span class="in"&gt;Bumper CAD&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -595,37 +484,27 @@
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i12 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-video.html" title="Kicker Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-video.html" title="Kicker Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-32.jpeg" alt="Kicker Video" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-video.html" title="Kicker Video"&gt;&lt;span class="in"&gt;Kicker Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i13 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/piezos-mounted-on-bumpers.html" title="Underside Circuitry" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/piezos-mounted-on-bumpers.html" title="Underside Circuitry" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-33.jpeg" alt="Underside Circuitry" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/piezos-mounted-on-bumpers.html" title="Underside Circuitry"&gt;&lt;span class="in"&gt;Underside Circuitry&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i14 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-prototype.html" title="Kicker Prototype" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-prototype.html" title="Kicker Prototype" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-21.jpeg" alt="Kicker Prototype" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-prototype.html" title="Kicker Prototype"&gt;&lt;span class="in"&gt;Kicker Prototype&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i15 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-solenoids.html" title="Kicker Solenoids" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-solenoids.html" title="Kicker Solenoids" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-34.jpeg" alt="Kicker Solenoids" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/kicker-solenoids.html" title="Kicker Solenoids"&gt;&lt;span class="in"&gt;Kicker Solenoids&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i16 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/initial-sketches-and-concep.html" title="Initial Sketches and Concepts" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/initial-sketches-and-concep.html" title="Initial Sketches and Concepts" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/pinball_med.jpeg" alt="Initial Sketches and Concepts" width="256" height="170" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/initial-sketches-and-concep.html" title="Initial Sketches and Concepts"&gt;&lt;span class="in"&gt;Initial Sketches and Concepts&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -651,30 +530,22 @@
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.PhotoGridIndex --&gt;
 								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/completed-circuitry.html" title="Completed Circuitry" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/completed-circuitry.html" title="Completed Circuitry" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-4.jpeg" alt="Completed Circuitry" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/completed-circuitry.html" title="Completed Circuitry"&gt;&lt;span class="in"&gt;Completed Circuitry&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/oscilloscope-signals.html" title="Oscilloscope Signals" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/oscilloscope-signals.html" title="Oscilloscope Signals" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-22.jpeg" alt="Oscilloscope Signals" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/oscilloscope-signals.html" title="Oscilloscope Signals"&gt;&lt;span class="in"&gt;Oscilloscope Signals&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/the-laser-gun.html" title="The Laser Gun" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/the-laser-gun.html" title="The Laser Gun" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-23.jpeg" alt="The Laser Gun" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/the-laser-gun.html" title="The Laser Gun"&gt;&lt;span class="in"&gt;The Laser Gun&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="gridItem i4 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/demonstrational-video.html" title="Demonstration Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/demonstrational-video.html" title="Demonstration Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-24.jpeg" alt="Demonstration Video" width="237" height="237" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/demonstrational-video.html" title="Demonstration Video"&gt;&lt;span class="in"&gt;Demonstration Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
@@ -765,18 +636,9 @@
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/nikon-d90-cad-model-2.html" title="Camera CAD"&gt;&lt;span class="in"&gt;Camera CAD&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
-								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html" title="Turkey Cooking FEA Video" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
+								&lt;div class="gridItem i2 e last-item"&gt;
+								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html" title="Turkey Cooking FEA Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2018-06-03-at-2.png" alt="Turkey Cooking FEA Video" width="256" height="256" /&gt;&lt;/a&gt;
 								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/turkey-cooking-fea-video.html" title="Turkey Cooking FEA Video"&gt;&lt;span class="in"&gt;Turkey Cooking FEA Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i3 o last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/anodized-aluminum.html" title="Anodized Aluminum" class="imageLink"&gt;
-									&lt;div style="width:256px; height:256px;"&gt;&lt;/div&gt;
-								&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/anodized-aluminum.html" title="Anodized Aluminum"&gt;&lt;span class="in"&gt;Anodized Aluminum&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
 								    
 								&lt;/div&gt;
 								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
