@@ -5,9 +5,9 @@
 		<link>https://pascoli.github.io/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Sun, 03 Jun 2018 16:37:19 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 04 Jun 2018 21:50:36 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-		<generator>Sandvox 2.10.7</generator>
+		<generator>Sandvox 2.10.11</generator>
 		<item>
 			<title>Contact Info</title>
 			<link>https://pascoli.github.io/contact-me.html</link>
@@ -55,7 +55,7 @@
 									}
 								
 									//--&gt;&lt;/script&gt;
-									&lt;form accept-charset="UTF-8" class="contactElement labelsOnTop" action="http://mailservice.karelia.com/mailme.php" onsubmit="return verifyAndSubmitcontactform(this);" method="post"&gt;
+									&lt;form accept-charset="UTF-8" class="contactElement labelsOnTop" action="https://mailservice.karelia.com/mailme.php" onsubmit="return verifyAndSubmitcontactform(this);" method="post"&gt;
 										
 										&lt;div class="hidden"&gt;
 											&lt;label for="contactform-subject"&gt;Please leave this field empty:&lt;/label&gt;
