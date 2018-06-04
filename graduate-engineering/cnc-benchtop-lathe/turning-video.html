@@ -99,7 +99,18 @@
 								<div class="article-content">
 									<div class="RichTextElement">
 										<div><p><span style="font-family: Verdana; font-size: 14px;">A video of BB8 rolling</span></p>
-											<div class="first graphic-container wide center">
+											<div class="first graphic-container wide center ImageElement">
+												<div class="graphic">
+													<div class="figure-content">
+														<!-- sandvox.ImageElement --><span data-img-src="../../_Media/action_sq-2_med.png" data-img-src-hr="../../_Media/action_sq-2.png" data-alt="action sq" data-width="200" data-height="200" style="width:200px; height:200px;">
+															<noscript><img src="../../_Media/action_sq-2_med.png" alt="action sq" width="200" height="200" /></noscript>
+														</span>
+														<!-- /sandvox.ImageElement -->
+													</div>
+												</div>
+											</div><p><br /></p>
+											
+											<div class="not-first-item graphic-container wide center">
 												<div class="Movie graphic">
 													<div class="figure-content">
 														<!-- sandvox.YouTubeElement -->
@@ -117,7 +128,6 @@
 									</div>
 								</div> <!-- /article-content -->
 								<div class="article-info">
-									<div class="timestamp in"><span class="in">Jul 25, 2015, 6:17 PM</span></div>
 								</div> <!-- /article-info -->
 							</div> <!-- /article -->
 						</div> <!-- main-content -->
@@ -139,6 +149,9 @@
 		if (typeof jQuery === 'undefined') document.write('<scr'+'ipt src="../../_Resources/jquery-1.9.1.min.js"></scr'+'ipt>');
 		</script>
 		
+		<script>
+		$(document).ready(function(){var e=window.devicePixelRatio&&window.devicePixelRatio>1?window.devicePixelRatio:1,t=window.innerWidth>window.innerHeight?screen.height:screen.width;$("span[data-img-src-hr]").each(function(){var n=$(this).data("width"),r=$(this).data("height"),i=$(this).data("alt"),s='<img src="',o=e>1&&n<2*t,u=0,a=$(this)[0].attributes;if(o){s+=$(this).data("img-src-hr")}else{s+=$(this).data("img-src")}s+='"';if(i)s+=' alt="'+i+'"';if(n)s+=' width="'+n+'"';if(r)s+=' height="'+r+'"';for(l=a.length;u<l;u++){var f=a[u].name;if(!f.match(/(data-width|data-height|data-alt|data-img-src)/g)){s+=" "+f+'="'+a[u].value+'"'}}s+=" />";$(this).replaceWith($(s))})})
+		</script>
 		
 	</body>
 </html>
