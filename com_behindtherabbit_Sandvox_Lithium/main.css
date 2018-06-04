@@ -88,8 +88,6 @@ body { word-wrap:break-word; }
 /* Make sure scaled-down images look good in IE */
 img { -ms-interpolation-mode: bicubic; }
 
-.HTMLElement { overflow:hidden; }
-
 textarea.fullWidth, input.fullWidth, select.fullWidth {
 	width:96%;
 	margin:4px 0;
