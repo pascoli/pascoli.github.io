@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Sun, 03 Jun 2018 16:37:23 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 04 Jun 2018 21:32:28 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.7</generator>
 		<item>
@@ -41,7 +41,7 @@
 			</description>
 			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/lathe-overview.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/sketch_med.jpeg" length="3467969" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/sketch.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -52,7 +52,7 @@
 			</description>
 			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/cnc-machining.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/cnc_med.jpeg" length="4186934" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -63,7 +63,7 @@
 			</description>
 			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/head-subassembly.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/head_med.jpeg" length="802132" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -74,7 +74,7 @@
 			</description>
 			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/pendulum-subassembly.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/pendulum_med.jpeg" length="3491647" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -85,7 +85,7 @@
 			</description>
 			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/fit-test.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/int-cross_med.jpeg" length="4404472" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
  	</channel>
