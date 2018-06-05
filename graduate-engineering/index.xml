@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/graduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Tue, 05 Jun 2018 11:13:56 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Jun 2018 19:58:46 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
@@ -86,27 +86,36 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2.html</guid>
-            <enclosure url="https://pascoli.github.io/trans.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/fea.png" type="image/png"></enclosure>
-<enclosure url="http://pascoli.github.io/render.png" type="image/png"></enclosure>
+            <enclosure url="https://pascoli.github.io/shaft.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/dance.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/samples_med_hr.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/flexure.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.io/render.png" type="image/png"></enclosure>
+<enclosure url="https://pascoli.github.io/fea.png" type="image/png"></enclosure>
+<enclosure url="https://pascoli.github.io/trans.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/preload.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/rail.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/shaft.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/draw.png" type="image/png"></enclosure>
+<enclosure url="https://pascoli.github.io/rail.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>Mechanical Device for 3D Cell Scaffold Compression</title>
-			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/index.html</link>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Tissue engineering offers a promising alternative to currently used synthetic dental implants by engineering biomimetic teeth for tooth replacement therapy, which could significantly impact clinical dentistry and improve clinical outcomes. Despite emerging evidence implicating the importance of mechanical forces in directing cellular differentiation and dental tissue formation, the role of variable mechanical stimuli in developing dental tissue has not been fully investigated. To address this, a low-cost mechanical stimulation device was designed and manufactured to serve as a valueable research tool for tissue generation — the device offers control of dynamic compressive loading on biomimetic 3D tooth scaffolds via a plunger system actuated by voice coils. The device was developed for and is currently being used by researchers at Tufts University School of Dental Medicine.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The design was carried out using a deterministic approach and a precision machine design philosphophy, employing error budgeting and precision alignment. Materials and fabrication methods were chosen to meet requirements for biocompatibility, sterilization procedures, and incubator operation. As presented in the following media, the precision of the device was governed by a 0.013in air gap between the voice coil and magnet resulting from the lack of an integrated bearing, which was required to minimize cost. Elastic averaging methods via tolerance rings (for locating the coils) and flexure blades (for locating the magnets relative to the coils), along with tight machining tolerances and a compact structural loop ensured the worst case error of critical mechanism did not exceed 0.008in. This scenario results in a 0.005in air gap between the coil and magnet to still gaurantee seemless operation. The device contains 12 voice coils, which each actuate a Teflon plunger to apply a dynamic compressive loads to gel scaffolds. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;Force calibration and sterilization testing were performed to validate the functional requirements and device performance. The results showed that the device can accurately and repeatedly apply up to 2 kPA of dynamic pressure to the gel scaffolds (maximum error of 4% using open loop force control) and that an ethanol sterilization is sufficient to maintain a sterile environment.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Tissue engineering offers a promising alternative to currently used synthetic dental implants by engineering biomimetic teeth for tooth replacement therapy, which could significantly impact clinical dentistry and improve clinical outcomes. Despite emerging evidence implicating the importance of mechanical forces in directing cellular differentiation and dental tissue formation, the role of variable mechanical stimuli in developing dental tissue has not been fully investigated. To address this, a low-cost mechanical stimulation device was designed and manufactured to serve as a valueable research tool for tissue generation — the device offers control of dynamic compressive loading on biomimetic 3D tooth scaffolds via a plunger system actuated by voice coils. The device was developed for and is currently being used by researchers at Tufts University School of Dental Medicine.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The design was carried out using a deterministic approach and a precision machine design philosphophy, employing error budgeting and precision alignment. Materials and fabrication methods were chosen to meet requirements for biocompatibility, sterilization procedures, and incubator operation. As presented in the following media, the precision of the device was governed by a 0.013in air gap between the voice coil and magnet resulting from the lack of an integrated bearing, which was required to minimize cost. Elastic averaging methods via tolerance rings (for locating the coils) and flexure blades (for locating the magnets relative to the coils), along with tight machining tolerances and a compact structural loop ensured the worst case error of critical mechanism did not exceed 0.008in. This scenario results in a 0.005in air gap between the coil and magnet to still gaurantee seemless operation. The device contains 12 voice coils, which each actuate a Teflon plunger to apply a dynamic compressive loads to gel scaffolds. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;Force calibration and sterilization testing were performed to validate the functional requirements and device performance. The results showed that the device can accurately and repeatedly apply up to 2 kPA of dynamic pressure to the gel scaffolds using only open loop force control with less than 10% error and that an ethanol sterilization is sufficient to maintain a sterile environment.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
-			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/index.html</guid>
-            
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1759_med-2.jpeg" length="4583901" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/dsc_1754_med-2.jpeg" length="4715356" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/dsc_1827_med-2.jpeg" length="2784923" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/dsc_1814_med-2.jpeg" length="4535032" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/figure-5_med.jpeg" length="1520623" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/dsc_1825_med-2.jpeg" length="6255172" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/dsc_1764_med-2.jpeg" length="5988722" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/dsc_1761_med-2.jpeg" length="5128535" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/figure-1_med-2.jpeg" length="2280426" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/figure-3_med-2.jpeg" length="1415371" type="image/jpeg"></enclosure>
 			
 		</item>
  	</channel>

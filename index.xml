@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Tue, 05 Jun 2018 09:36:48 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Jun 2018 19:58:45 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
@@ -114,79 +114,31 @@
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A selection of projects that demonstrate my creativity and technical design skills. Please select a project to view.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
-						&lt;div style="" class="photogrid-index graphic"&gt;
+						&lt;div style="" class="general-index graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.PhotoGridIndex --&gt;
-								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/second-operation-lathe/index.html" title="Second Operation Lathe" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at.png" alt="Lathe Overview 1" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/second-operation-lathe/index.html" title="Second Operation Lathe"&gt;&lt;span class="in"&gt;Second Operation Lathe&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/index.html" title="Carbon Fiber 3D Printing" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at-2.png" alt="Carbon Fiber 3D Printing" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/index.html" title="Carbon Fiber 3D Printing"&gt;&lt;span class="in"&gt;Carbon Fiber 3D Printing&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/index.html" title="LURE" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/madora_med_hr-2.jpeg" alt="LURE" width="217" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure/index.html" title="LURE"&gt;&lt;span class="in"&gt;LURE&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/index.html" title="Modular [Laser Cut] Camera" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23.jpeg" alt="Modular [Laser Cut] Camera" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera/index.html" title="Modular [Laser Cut] Camera"&gt;&lt;span class="in"&gt;Modular [Laser Cut] Camera&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/index.html" title="Shadowgraph Photography Rig" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_9884.jpeg" alt="Shadowgraph Photography Rig" width="205" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig/index.html" title="Shadowgraph Photography Rig"&gt;&lt;span class="in"&gt;Shadowgraph Photography Rig&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i6 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/index.html" title="The Pinball Machine" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-3.jpeg" alt="The Pinball Machine" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine/index.html" title="The Pinball Machine"&gt;&lt;span class="in"&gt;The Pinball Machine&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i7 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/index.htm" title="Laser Tag" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-4.jpeg" alt="Laser Tag" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag/index.htm" title="Laser Tag"&gt;&lt;span class="in"&gt;Laser Tag&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i8 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/index.html" title="LEGO Ice Cubes" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-at-5.jpeg" alt="LEGO Ice Cubes" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes/index.html" title="LEGO Ice Cubes"&gt;&lt;span class="in"&gt;LEGO Ice Cubes&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i9 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table/index.html" title="Transforming Table" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_5171_256.jpeg" alt="DSC 5171" width="256" height="170" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table/index.html" title="Transforming Table"&gt;&lt;span class="in"&gt;Transforming Table&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i10 e"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/index.html" title="Aperture Light Switch" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2014-11-23-2.jpeg" alt="Aperture Light Switch" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch/index.html" title="Aperture Light Switch"&gt;&lt;span class="in"&gt;Aperture Light Switch&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i11 o"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/orange-juicer/index.htm" title="Orange Juicer" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_9941_256.jpeg" alt="DSC_9941.jpg" width="256" height="169" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/orange-juicer/index.htm" title="Orange Juicer"&gt;&lt;span class="in"&gt;Orange Juicer&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i12 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/index.htm" title="Small Projects" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/peter-ascoli-cad.jpeg" alt="Small Projects" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/miscellaneous/index.htm" title="Small Projects"&gt;&lt;span class="in"&gt;Small Projects&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
-								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+								&lt;!-- sandvox.GeneralIndex --&gt;
+								&lt;ul&gt;
+									&lt;li class="i1 o"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/second-operation-lathe.html" title="Second Operation Lathe"&gt;&lt;span class="in"&gt;Second Operation Lathe&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i2 e"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing.html" title="Carbon Fiber 3D Printing"&gt;&lt;span class="in"&gt;Carbon Fiber 3D Printing&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i3 o"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/lure.html" title="LURE"&gt;&lt;span class="in"&gt;LURE&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i4 e"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/modular-camera.html" title="Modular [Laser Cut] Camera"&gt;&lt;span class="in"&gt;Modular [Laser Cut] Camera&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i5 o"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig.html" title="Shadowgraph Photography Rig"&gt;&lt;span class="in"&gt;Shadowgraph Photography Rig&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i6 e"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/the-pinball-machine.html" title="The Pinball Machine"&gt;&lt;span class="in"&gt;The Pinball Machine&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i7 o"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/laser-tag.htm" title="Laser Tag"&gt;&lt;span class="in"&gt;Laser Tag&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i8 e"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes.html" title="LEGO Ice Cubes"&gt;&lt;span class="in"&gt;LEGO Ice Cubes&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i9 o"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/transforming-table.html" title="Transforming Table"&gt;&lt;span class="in"&gt;Transforming Table&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i10 e last-item"&gt;&lt;a href="https://pascoli.github.io/undergraduate-engineering/aperture-light-switch.html" title="Aperture Light Switch"&gt;&lt;span class="in"&gt;Aperture Light Switch&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;/ul&gt;
+								&lt;div class="general-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.GeneralIndex --&gt;
 							&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;
+					&lt;/div&gt; &lt;br /&gt;
 				&lt;/div&gt;
 			</description>
 			<pubDate>Fri, 28 Dec 2012 23:52:19 +0100</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/index.html</guid>
-            
+            <enclosure url="https://pascoli.github.io/_Media/undergrad_med.png" length="3085914" type="image/png"></enclosure>
 			
 		</item>
 		<item>
@@ -195,39 +147,25 @@
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A selection of machine design projects that demonstrate my mechanical design skills. Please select a project to view.&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
-						&lt;div style="" class="photogrid-index graphic"&gt;
+						&lt;div style="" class="general-index graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.PhotoGridIndex --&gt;
-								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html" title="CNC BB8" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/action_sq-2.png" alt="CNC BB8" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html" title="CNC BB8"&gt;&lt;span class="in"&gt;CNC BB8&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course.html" title="CNC Machining Course" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/bubble_sq-2.jpeg" alt="CNC Machining Course" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course.html" title="CNC Machining Course"&gt;&lt;span class="in"&gt;CNC Machining Course&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2.html" title="CNC Benchtop Lathe" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at-12.png" alt="CNC Benchtop Lathe" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2.html" title="CNC Benchtop Lathe"&gt;&lt;span class="in"&gt;CNC Benchtop Lathe&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i4 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/index.html" title="Mechanical Device for 3D Cell Scaffold Compression" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/screen-shot-2016-06-15-at.png" alt="Mechanical Device for 3D Cell Scaffold Compression" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/index.html" title="Mechanical Device for 3D Cell Scaffold Compression"&gt;&lt;span class="in"&gt;Mechanical Device for 3D Cell Scaffold Compression&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
-								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+								&lt;!-- sandvox.GeneralIndex --&gt;
+								&lt;ul&gt;
+									&lt;li class="i1 o"&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html" title="CNC BB8"&gt;&lt;span class="in"&gt;CNC BB8&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i2 e"&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course.html" title="CNC Machining Course"&gt;&lt;span class="in"&gt;CNC Machining Course&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i3 o"&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2.html" title="CNC Benchtop Lathe"&gt;&lt;span class="in"&gt;CNC Benchtop Lathe&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+									&lt;li class="i4 e last-item"&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for.html" title="Mechanical Device for 3D Cell Scaffold Compression"&gt;&lt;span class="in"&gt;Mechanical Device for 3D Cell Scaffold Compression&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;/ul&gt;
+								&lt;div class="general-index-bottom"&gt;&lt;/div&gt;
+								&lt;!-- /sandvox.GeneralIndex --&gt;
 							&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
 			<pubDate>Fri, 28 Dec 2012 23:52:19 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/index.html</guid>
-            
+            <enclosure url="https://pascoli.github.io/_Media/grad_med.png" length="1005572" type="image/png"></enclosure>
 			
 		</item>
  	</channel>
