@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/graduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Tue, 05 Jun 2018 09:07:59 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Jun 2018 09:36:49 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
@@ -31,17 +31,17 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html</guid>
-            <enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>CNC Machining Course</title>
 			<link>https://pascoli.github.io/graduate-engineering/cnc-machining-course.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;As part of the &lt;a href="http://makerworks.mit.edu/" target="_blank"&gt;MIT Makerworkshop&lt;/a&gt;, I helped organize and teach a week-long CNC machining course. Students learned an introduction to the mechanics behind feed and speed selections, how to use GWizard (a feeds and speeds selection software), and machined their very own centrifugal pumps on 3-axis ProtoTrak mills using conversatial CNC, DXF conversion to G code, and HSMWorks CAM software in SolidWorks. Instructors held lectures and milling demonstrations, designed the pump to be machined by students, and helped guide students with their machining workflow and CNC programming decisions. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;The pump required students to CNC machine a Delrin impeller, an aluminum impeller housing, and an aluminum baseplate. Various 3D-printed (ie. motor mount) and laser cut components were supplied by instructors.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;A video of an student’s functioning centrifugal pump.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;As part of the &lt;a href="http://makerworks.mit.edu/" target="_blank"&gt;MIT Makerworkshop&lt;/a&gt;, I helped organize and teach a week-long CNC machining course. Students learned an introduction to the mechanics behind feed and speed selections, how to use GWizard (a feeds and speeds selection software), and machined their very own centrifugal pumps on 3-axis ProtoTrak mills using conversatial CNC, DXF conversion to G code, and HSMWorks CAM software in SolidWorks. Instructors held lectures and milling demonstrations, designed the pump to be machined by students, and helped guide students with their machining workflow and CNC programming decisions. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;The pump required students to CNC machine a Delrin impeller, an aluminum impeller housing, and an aluminum baseplate. Various 3D-printed (ie. motor mount) and laser cut components were supplied by instructors.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;A video of an student’s functioning centrifugal pump.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
 						&lt;div class="Movie graphic"&gt;
 							&lt;div class="figure-content"&gt;
@@ -72,21 +72,31 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-machining-course.html</guid>
-            <enclosure url="https://pascoli.github.io/DRO.jpg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/bubble.jpg" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/bubble.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/DRO.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/assy.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/pumps.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>CNC Benchtop Lathe</title>
-			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2/index.html</link>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;My most complex design project to date, this CNC benchtop lathe is designed to turn aluminum and steel with at least 50um precision. Lead screw actuated x-feed and z-feed mechanisms can be controlled with dials or via stepper motors for CNC operation. The z-direction translation system comprises an aluminum carriage, bronze bushings, and steel rails. The carriage mounts to one of the guide rails via a 2-DOF flexure to relieve overconstraint. A 4-DOF flexure attaches the lead screw drive nut to the carriage, again to eliminate overconstraint. The x-direction translation system (cross feed) is a 1-DOF flexure bearing stage, which mounts the tool post. The spindle contains a steel shaft, two tapered roller bearings (for better shaft moment resistance, and to avoid thermal runaway), an aluminum housing, a chuck, and is driven with a V-belt transmission.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The design of the machine was formulated around a homogenous tranform matrix (HTM) model to track alignment/machinining errors and component deformations under turning forces, ensuring that the required precision would be met. I personally designed the three flexure mechanisms using finite element analysis (SolidWorks and Abaqus), contributed to the design of the spindle, x-feed and z-feed drive mechanisms, and contributed to the development of the HTM model. Nearly all parts were machined at MIT on the mill, lathe, and water jet, after which the lathe was assembled and tested.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
-			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2/index.html</guid>
-            
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/flexureblades_med-2.jpeg" length="3882281" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/backlash_med-2.jpeg" length="3931294" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/belt_med.jpeg" length="8578279" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/030916_spindle-shaft_med-2.png" length="196249" type="application/pdf"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at_med-3.png" length="1101480" type="image/png"></enclosure>
+<enclosure url="https://pascoli.github.io/overview_med_hr.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/dm_med.jpeg" length="785752" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/shaft_med-2.jpeg" length="2043486" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/latherender2_med-2.jpeg" length="2497316" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/samples_med_hr.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/_Media/bushings_med-2.jpeg" length="10322826" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
