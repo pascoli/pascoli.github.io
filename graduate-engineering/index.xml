@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/graduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Tue, 05 Jun 2018 08:51:44 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Jun 2018 09:07:59 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
@@ -31,66 +31,51 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html</guid>
-            <enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
 			<title>CNC Machining Course</title>
-			<link>https://pascoli.github.io/graduate-engineering/cnc-machining-course/index.html</link>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-machining-course.html</link>
 			<description>
-				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;As part of the &lt;a href="http://makerworks.mit.edu/" target="_blank"&gt;MIT Makerworkshop&lt;/a&gt;, I helped organize and teach a week-long CNC machining course. Students learned an introduction to the mechanics behind feed and speed selections, how to use GWizard (a feeds and speeds selection software), and machined their very own centrifugal pumps on 3-axis ProtoTrak mills using conversatial CNC, DXF conversion to G code, and HSMWorks CAM software in SolidWorks. Instructors held lectures and milling demonstrations, designed the pump to be machined by students, and helped guide students with their machining workflow and CNC programming decisions. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;The pump required students to CNC machine a Delrin impeller, an aluminum impeller housing, and an aluminum baseplate. Various 3D-printed (ie. motor mount) and laser cut components were supplied by instructors.&lt;/span&gt;&lt;/p&gt;
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;As part of the &lt;a href="http://makerworks.mit.edu/" target="_blank"&gt;MIT Makerworkshop&lt;/a&gt;, I helped organize and teach a week-long CNC machining course. Students learned an introduction to the mechanics behind feed and speed selections, how to use GWizard (a feeds and speeds selection software), and machined their very own centrifugal pumps on 3-axis ProtoTrak mills using conversatial CNC, DXF conversion to G code, and HSMWorks CAM software in SolidWorks. Instructors held lectures and milling demonstrations, designed the pump to be machined by students, and helped guide students with their machining workflow and CNC programming decisions. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;The pump required students to CNC machine a Delrin impeller, an aluminum impeller housing, and an aluminum baseplate. Various 3D-printed (ie. motor mount) and laser cut components were supplied by instructors.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;A video of an student’s functioning centrifugal pump.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
-						&lt;div style="" class="photogrid-index graphic"&gt;
+						&lt;div class="Movie graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.PhotoGridIndex --&gt;
-								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/turning-video.html" title="Demo Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/pumpvid_sq.png" alt="Demo Video" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/turning-video.html" title="Demo Video"&gt;&lt;span class="in"&gt;Demo Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/qJLBv3_hYA8?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="800" height="449" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
 								&lt;/div&gt;
-								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/machining-video.html" title="Machining Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/machvid_sq.png" alt="Machining Video" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/machining-video.html" title="Machining Video"&gt;&lt;span class="in"&gt;Machining Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/pump-overview.html" title="Pump Overview" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/pumps_sq.jpeg" alt="Pump Overview" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/pump-overview.html" title="Pump Overview"&gt;&lt;span class="in"&gt;Pump Overview&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/impeller-and-housing.html" title="Impeller and Housing" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/imp_sq.jpeg" alt="Impeller and Housing" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/impeller-and-housing.html" title="Impeller and Housing"&gt;&lt;span class="in"&gt;Impeller and Housing&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/fit-checks.html" title="Fit Checks" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/assy_sq.jpeg" alt="Fit Checks" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/fit-checks.html" title="Fit Checks"&gt;&lt;span class="in"&gt;Fit Checks&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i6 e"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/o-ring-grove-machining.html" title="O-Ring Grove Machining" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/bubble_sq-2.jpeg" alt="O-Ring Grove Machining" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/o-ring-grove-machining.html" title="O-Ring Grove Machining"&gt;&lt;span class="in"&gt;O-Ring Grove Machining&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i7 o last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/conversational-cnc.html" title="Conversational CNC" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/dro_sq.jpeg" alt="Conversational CNC" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-machining-course/conversational-cnc.html" title="Conversational CNC"&gt;&lt;span class="in"&gt;Conversational CNC&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
-								&lt;!-- /sandvox.PhotoGridIndex --&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
 							&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 1.6em; color: rgb(51, 51, 51); font-family: Georgia, Times, 'Times New Roman', serif; font-variant-caps: normal; font-weight: normal; text-align: start;"&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;A video of the Delring impeller, and aluminum impeller housing being CNC-machined.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="not-first-item graphic-container wide center"&gt;
+						&lt;div class="Movie graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube2" mozallowfullscreen="true" src="//www.youtube.com/embed/zIgkL1ExT3Y?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="800" height="449" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;p style="font-size: 1.6em; color: rgb(51, 51, 51); font-family: Georgia, Times, 'Times New Roman', serif; font-variant-caps: normal; font-weight: normal; text-align: start;"&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 1.6em; color: rgb(51, 51, 51); font-family: Georgia, Times, 'Times New Roman', serif; font-variant-caps: normal; font-weight: normal; text-align: start;"&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;Two student pumps side-by-side. A delrin impeller is housed inside and aluminum impeller block. The impeller is magnetically coupled to the motor mounted on the backside.&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
-			<guid>https://pascoli.github.io/graduate-engineering/cnc-machining-course/index.html</guid>
-            
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-machining-course.html</guid>
+            <enclosure url="https://pascoli.github.io/DRO.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/bubble.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/assy.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/pumps.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
