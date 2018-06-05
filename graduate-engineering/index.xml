@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/graduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Tue, 05 Jun 2018 10:05:39 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Jun 2018 11:13:56 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
@@ -31,9 +31,9 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html</guid>
-            <enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
@@ -72,9 +72,9 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-machining-course.html</guid>
-            <enclosure url="https://pascoli.github.io/bubble.jpg" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/assy.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/pumps.jpg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/assy.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/bubble.jpg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/DRO.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
@@ -86,16 +86,16 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
 			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe-2.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/030916_spindle-shaft_med-2.png" length="196249" type="application/pdf"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/flexureblades_med-2.jpeg" length="3882281" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/bushings_med-2.jpeg" length="10322826" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/backlash_med-2.jpeg" length="3931294" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dm_med.jpeg" length="785752" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/belt_med.jpeg" length="8578279" type="image/jpeg"></enclosure>
+            <enclosure url="https://pascoli.github.io/trans.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/fea.png" type="image/png"></enclosure>
+<enclosure url="http://pascoli.github.io/render.png" type="image/png"></enclosure>
+<enclosure url="https://pascoli.github.io/dance.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="https://pascoli.github.io/samples_med_hr.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/shaft_med-2.jpeg" length="2043486" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/screen-shot-2016-06-14-at_med-3.png" length="1101480" type="image/png"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/latherender2_med-2.jpeg" length="2497316" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/flexure.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/preload.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/rail.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/shaft.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/draw.png" type="image/png"></enclosure>
 			
 		</item>
 		<item>
