@@ -5,73 +5,36 @@
 		<link>https://pascoli.github.io/graduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Mon, 04 Jun 2018 22:24:40 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Jun 2018 08:51:44 +0200</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
 			<title>CNC BB8</title>
-			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html</link>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html</link>
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;CNC BB8 (Star Wars Droid) was a personal project I undertook to get better at CAM and CNC machining. All metallic components (aside from the main shaft) were CNC 3-axis milled, even if water jetting, or another method may have been simpler. A single degree-of-freedom pendulum, and magenetic coupling secure and balance the head. The pendulum utilizes a copper ballast to counteract the mass of the head. Laser cut acrylic flexures support a 3D-printed block with press-fit magnets. The flexures were implemented to give the head a ‘bobble’. The head contains support wheels and magnets for coupling the head to the body. The orientations of the magnets are flipped so that opposite adjacent poles serve as a high magentic shear stiffness. I ultimately ran out of time before leaving Boston to CNC the main body, so a 3D printed shell has to do for now. For its prototype nature, I commonly call this project&lt;/span&gt; &lt;em style="font-family: Verdana; font-size: 14px;"&gt;BetaBeta8&lt;/em&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;.&lt;/span&gt;
-					&lt;/p&gt;
+					&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;A demo video of BB8 rolling.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="first graphic-container wide center"&gt;
-						&lt;div style="" class="photogrid-index graphic"&gt;
-							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.PhotoGridIndex --&gt;
-								&lt;div class="gridItem i1 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/turning-video.html" title="Demo Video" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/action_sq-2.png" alt="action sq" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/turning-video.html" title="Demo Video"&gt;&lt;span class="in"&gt;Demo Video&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i2 e"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/lathe-overview.html" title="Sketch" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/sketch_sq-2.jpeg" alt="Sketch" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/lathe-overview.html" title="Sketch"&gt;&lt;span class="in"&gt;Sketch&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i3 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/cnc-machining.html" title="CNC Machining" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/cnc_sq.jpeg" alt="CNC Machining" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/cnc-machining.html" title="CNC Machining"&gt;&lt;span class="in"&gt;CNC Machining&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i4 e"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/head-subassembly.html" title="Head Subassembly" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/head_sq.jpeg" alt="Head Subassembly" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/head-subassembly.html" title="Head Subassembly"&gt;&lt;span class="in"&gt;Head Subassembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i5 o"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/pendulum-subassembly.html" title="Pendulum Subassembly" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/pendulum_sq.jpeg" alt="Pendulum Subassembly" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/pendulum-subassembly.html" title="Pendulum Subassembly"&gt;&lt;span class="in"&gt;Pendulum Subassembly&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="gridItem i6 e last-item"&gt;
-								    &lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/fit-test.html" title="Fit Test" class="imageLink"&gt;&lt;img src="https://pascoli.github.io/_Media/int_cross_sq.jpeg" alt="Fit Test" width="256" height="256" /&gt;&lt;/a&gt;
-								    &lt;h3&gt;&lt;a href="https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/fit-test.html" title="Fit Test"&gt;&lt;span class="in"&gt;Fit Test&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
-								    
-								&lt;/div&gt;
-								&lt;div class="photogrid-index-bottom"&gt;&lt;/div&gt;
-								&lt;!-- /sandvox.PhotoGridIndex --&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;b&lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;log example.&lt;/span&gt;&lt;/p&gt;
-					&lt;div class="not-first-item graphic-container wide center"&gt;
 						&lt;div class="Movie graphic"&gt;
 							&lt;div class="figure-content"&gt;
 								&lt;!-- sandvox.YouTubeElement --&gt;
 								&lt;div class="YouTubeElement"&gt;
 									&lt;div class="video"&gt;
-										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/jyisZeToyO0?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="900" height="506" class="graphic"&gt;&lt;/iframe&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/jyisZeToyO0?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="800" height="449" class="graphic"&gt;&lt;/iframe&gt;
 									&lt;/div&gt;
 								&lt;/div&gt;
 								&lt;!-- /sandvox.YouTubeElement --&gt;
 							&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;example
-					&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p style="font-size: 1.6em; color: rgb(51, 51, 51); font-family: Georgia, Times, 'Times New Roman', serif; font-style: normal; font-variant-caps: normal; font-weight: normal; text-align: start;"&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 1.6em; color: rgb(51, 51, 51); font-family: Georgia, Times, 'Times New Roman', serif; font-variant-caps: normal; font-weight: normal; text-align: start;"&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;Milling of the head hemisphere. The cylindrical stock was first internally hollowed out before flipping and machining the OML.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
 			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
-			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html</guid>
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe.html</guid>
             <enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
+<enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
