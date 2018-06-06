@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/undergraduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Tue, 05 Jun 2018 19:59:09 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 05 Jun 2018 19:32:31 -0700</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
@@ -15,14 +15,14 @@
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Modular [Laser Cut] Camera was designed, built, and tested by&lt;/span&gt; &lt;a href="https://www.linkedin.com/in/chriscurro" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Chris Curro&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;and I in 24 hours at a&lt;/span&gt; &lt;a href="https://www.hackerleague.org/hackathons/hackcooper" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Cooper Union Hackathon&lt;/a&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;. As photoenthusiasts we decided to create a laser-cut modular camera system during the event. The camera has three modules. The first holds the lens(es), shutter and aperture. The second is a translatable focusing module. The third mounts a film or digital back. The configuration shown below holds a 120mm FL positive meniscus lens, a f/11 circular aperture, and a single blade leaf shutter. As a modular system, we created many other aperture shapes and sizes, and one could create different shutter mechanisms, optical lens stacks, and a variety of camera backs (digital, medium format, polaroid, etc.). My Nikon d90 was used during the Hackathon to efficiently demonstrate the potential of the Hack. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;Modular Camera won &lt;em&gt;Most Technical Hack&lt;/em&gt; at HackCooper 2014.&lt;/span&gt;
 					&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: rgb(0, 0, 0); font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;An overview of the camera: On top you can see the circuit (arduino, op-amp, dip-switch, and push-button) that controls the shutter mechanism. Farthest to the right is the lens-aperture-shutter module. In the middle is the focusing module (this module is stationary and the first module slides in-and-out to focus). The largest wooden rectangular prism (on the left) is the film/digital-back module, which in this instance connects to my Nikon d90.&lt;/em&gt;&lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
-			<pubDate>Thu, 19 Sep 2013 06:41:53 +0200</pubDate>
+			<pubDate>Wed, 18 Sep 2013 21:41:53 -0700</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/hackathon-winners-3_med.jpeg" length="1470655" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/camera-5_med-2.png" length="17785033" type="image/png"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/hackathon-winners-1_med-2.jpeg" length="2055060" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/camera-10_med-2.png" length="14019739" type="image/png"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/hackathon-winners-5_med-2.jpeg" length="1223526" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/hackathon-winners-7_med.jpeg" length="1970663" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/cam-3.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/cam-1.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/cam-7.png" type="image/png"></enclosure>
+<enclosure url="http://pascoli.github.com/cam-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/cam-6.png" type="image/png"></enclosure>
+<enclosure url="http://pascoli.github.com/cam-2.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -32,11 +32,11 @@
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;LURE is a set of sculptures designed and fabricated by&lt;/span&gt; &lt;a href="http://jsong.me/" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;Jackie Song&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;and I for Brooklyn artist&lt;/span&gt; &lt;a href="http://madorafrey.com/home.html" target="_blank" style="font-family: Verdana; font-size: 14px;"&gt;MaDora Frey&lt;/a&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;during academic year 2012-2013. The artist approaced us with initial sketches of the piece, called&lt;/span&gt; &lt;em style="font-family: Verdana; font-size: 14px;"&gt;LURE.&lt;/em&gt; &lt;span style="font-size: 14px; font-family: Verdana;"&gt;Working within her desired aesthetic and function for the sculpture, we turned her idea into a mechanically and structural sound device. Multiple concepts were modeled in CAD software. Once the design was finalized, 2D drawings for manufacturing were created, components were machined, and the sculptures assembled. LURE consists of an upper pulley system that lowers a piece of pyrite down to a claw mechanism. The claw, a lead screw actuated series of linkages with feathers secured to the ends, grabs at the pyrite as it descends. The pulley system and claw are driven by stepper motors, which are both controlled by an Arduino to make the two seemingly independent structures interact. LURE was shown in the &lt;a href="http://www.trestlegallery.org/" target="_blank"&gt;Trestle Gallery&lt;/a&gt; in Brooklyn soon after completion.&lt;/span&gt;
 					&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: rgb(0, 0, 0); font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;Photographs by the artist of the sculpture(s).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
-			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<pubDate>Wed, 06 Feb 2013 13:44:20 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/lure.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/dscf1762_med-2.jpeg" length="444291" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/machined-hub-cap_med-2.jpeg" length="259469" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/madora_med-2.jpeg" length="7307339" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.io/lure-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.io/lure-1.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.io/lure-5.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -45,11 +45,11 @@
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Along with three other team members, a second operation lathe was designed and manufactured for Cooper Union’s Student Machine Shop during academic year 2014-2015. With only one lathe in the Student Machine Shop, it was decided that creating a second operation lathe would decrease the long line of students waiting for that machine by providing one capable of turning less complex parts, such as pieces not requiring thread cutting or the use of a tailstock. Working under budget constraints from the Department of Mechanical Engineering, as well as turning and safety requirements established by shop technicians, faculty, and staff, a second operation lathe was designed in SolidWorks. Sufficient strength and deformation requirements were validated using finite element analysis (FEA) and parametric hand calculations. Once the design was successfully vetted after multiple concepts and iterations, 2D drawings for manufacturing were produced. The majority of parts were machined from stock by my teammates and I using the manual mill and lathe, with assembly occuring as parts were completed.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
-			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<pubDate>Wed, 06 Feb 2013 13:44:20 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/second-operation-lathe.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/lathe-8_med-2.jpeg" length="5779741" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/lathe-5_med-2.jpeg" length="5457898" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/lathe-2_med-3.jpeg" length="950343" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.io/lathe-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.io/lathe-1.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.io/lathe-3.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -58,9 +58,9 @@
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;A fused deposition modeling (FDM) 3D printer capable of printing a carbon fiber reinforced polymer (CFRP) filament in curved layers was developed by &lt;a href="http://jsong.me/" target="_blank"&gt;Jackie Song&lt;/a&gt; and I for our capstone senior design project (2014-2015). The driving force behind this project was the weak thermoplastic materials and poor adhesion from planar layers that limit most 3D printing to rapid prototyping applications. With stronger filament materials and layer orientation optimized for the loads imparted on a given specimen, load-bearing implementation of 3D printed parts could be realized. With this in mind, we set out to created and utilize a CFRP filament and print using curved layers aligned with loads to take full advantage of a carbon fiber composite filament.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;To created the printer, an extruder end-effector was designed and fabricated for mounting to a FANUC LR Mate 200iC industrial robot arm. The extruder uses &lt;a href="http://reprap.org/" target="_blank"&gt;RepRap&lt;/a&gt; 3D printing hardware and is controlled by a &lt;a href="http://reprap.org/wiki/Megatronics_2.0" target="_blank"&gt;Megatronics&lt;/a&gt; controller. The FANUC robot provides the six degrees of freedom necessary to realize curved layer 3D printing. The open-source Megatronics microcontroller and FANUC robot system were programmed with toolpaths and extruder speeds for a sample bridge specimen (shown above). A novel ABS-matrix carbon fiber filament was created using dipping methods and a composite finitie element analysis (FEA) using filament material properties was used to predict specimen strength, stiffness, and failure behavior. Filament tensile tests demonstrated stiffness on the same order of magnitude as aluminum while FEA predicted CFRP part stength to be nearly twice that of an ABS analog, and the stiffness to be on the same order of magnitude as an aluminum part. While the project progressed very far, inefficiencies in filament manufacturing ultimately prevented us from printing with CFRP using the FANUC (CFRP extrusion was validated using a &lt;a href="http://the3doodler.com/" target="_blank"&gt;3Doodler&lt;/a&gt;) within the academic year. &lt;/span&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;A masters student at Cooper Union will pick up this project for their thesis, intending to finalize an efficient filament manufacturing process, print, and experimentally quantify the strength and stiffness of CFRP 3D printed components compared to their planar layer and curved layer ABS analogs, as well as the FEA predictions. The poster presentation below concisely summarizes the project&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
-			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<pubDate>Wed, 06 Feb 2013 13:44:20 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at_med.png" length="167010" type="image/png"></enclosure>
+            <enclosure url="http://pascoli.github.io/poster.png" type="image/png"></enclosure>
 			
 		</item>
 		<item>
@@ -80,20 +80,20 @@
 								&lt;!-- /sandvox.YouTubeElement --&gt;
 							&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;Two sample shadowgraph images. One, a proof of concept with a lighter and flashlight. Two, side-by-side flame and shadowgraph showing the laminar (cone) to turbulant flow transition.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;Two sample shadowgraph images. One, a proof of concept with a lighter and flashlight. Two, side-by-side flame and shadowgraph showing the laminar (cone) to turbulant flow transition.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_6938_med-2.jpeg" alt="DSC_6938" width="400" height="600" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9948" src="http://pascoli.github.com/shadow-3.jpeg" width="400" height="600" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;/div&gt;
 				&lt;/div&gt;
 			</description>
-			<pubDate>Wed, 06 Feb 2013 22:44:20 +0100</pubDate>
+			<pubDate>Wed, 06 Feb 2013 13:44:20 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/dsc_9948_med-2.jpeg" length="242539" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dsc_6938_med-2.jpeg" length="912434" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/shadow-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/shadow-3.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -102,9 +102,9 @@
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A small project to gain some experience in mold-making. Instead of using an existing LEGO brick, I opted to 3D print one more condusive to molding ice cubes (with drafts, fillets, and as little material removed from the inside as possible). A food-grade silicon was used for the mold since it could easily peel off of the cast LEGO brick. The ice cubes are stackable but as small features, the studs completely melt after a few short minutes. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
 			</description>
-			<pubDate>Sun, 27 Jan 2013 23:30:27 +0100</pubDate>
+			<pubDate>Sun, 27 Jan 2013 14:30:27 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/molding-lego-ice-cubes.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/icecube_med.png" length="1883676" type="image/png"></enclosure>
+            <enclosure url="http://pascoli.github.com/icecube.png" type="image/png"></enclosure>
 			
 		</item>
 		<item>
@@ -127,9 +127,9 @@
 					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 13px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;em style="font-family: Verdana; font-size: 13px;"&gt;A close-up photo of the little details.&lt;/em&gt;&lt;span style="font-size: 13px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
-			<pubDate>Sun, 27 Jan 2013 23:29:57 +0100</pubDate>
+			<pubDate>Sun, 27 Jan 2013 14:29:57 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/aperture-light-switch.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/dscf1530_med-2.jpeg" length="369944" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/light-2.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -140,40 +140,40 @@
 					&lt;div class="first graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/untitled-1_med-2_med.jpeg" alt="untitled-1 med-2" width="800" height="505" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="untitled-1 med-2" src="http://pascoli.github.com/table-1.jpeg" width="800" height="505" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
 					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;The table in square form.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_5166_med-2.jpeg" alt="DSC 5166" width="800" height="531" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC 5166" src="http://pascoli.github.com/table-2.jpeg" width="800" height="530" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;em style="font-family: Verdana; font-size: 14px;"&gt;The table in an intermediate exploded state.&lt;/em&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;em style="font-family: Verdana; font-size: 14px;"&gt;The table in an intermediate exploded state.&lt;/em&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;em style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;An assembled intermediate state.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_5167-2_med-2.jpeg" alt="DSC 5167" width="800" height="531" /&gt;
-								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;em style="font-family: Verdana; font-size: 14px;"&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;An assembled intermediate state.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
-						&lt;div class="graphic"&gt;
-							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_5168-2_med-2.jpeg" alt="DSC 5168" width="800" height="533" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC 5168" src="http://pascoli.github.com/table-4.jpeg" width="800" height="533" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
 					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;The triangular state with functional drawers.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
+						&lt;div class="graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC 5171" src="http://pascoli.github.com/table-5.jpeg" width="800" height="532" class="graphic" /&gt;
+								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
 				&lt;/div&gt;
 			</description>
-			<pubDate>Sun, 27 Jan 2013 23:29:57 +0100</pubDate>
+			<pubDate>Sun, 27 Jan 2013 14:29:57 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/transforming-table.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/dsc_5171_med-2.jpeg" length="230557" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/untitled-1_med-2_med-2.jpeg" length="41902" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dsc_5168-2_med-2.jpeg" length="226275" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dsc_5166_med-2.jpeg" length="213543" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dsc_5167-2_med-2.jpeg" length="236467" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/table-3.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/table-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/table-1.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/table-5.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/table-2.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -184,28 +184,28 @@
 					&lt;div class="first graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dscf2525_med-2.jpeg" alt="DSCF2525" width="550" height="550" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSCF2525" src="http://pascoli.github.com/pinball-1.jpeg" width="500" height="500" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
 					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;A close look at the finished top level. Flippers are manually actuated via a linkage system installed beneath the board. Kickers are actauted by solenoids when a ball depresses the extended lever arm of a limit switch.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dscf2308_med-2.jpeg" alt="DSCF2308" width="800" height="531" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSCF2308" src="http://pascoli.github.com/pinball-2.jpeg" width="800" height="530" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
 					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;The flipper linkage system converting translation motion at the location of traditional pinball buttons, to rotational motion at the flipper locations.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
-			<pubDate>Sun, 27 Jan 2013 23:29:38 +0100</pubDate>
+			<pubDate>Sun, 27 Jan 2013 14:29:38 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/the-pinball-machine.html</guid>
-            <enclosure url="https://pascoli.github.io/_Media/dscf2320_med-2.jpeg" length="580959" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dscf2308_med-2.jpeg" length="719485" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/bumper-piezo.mp4" length="4638400" type="video/mp4"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dscf2237_med-2.jpeg" length="559943" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dscf2525_med-2.jpeg" length="547293" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/kicker.mp4" length="1530674" type="video/mp4"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dscf1730_med-2.jpeg" length="393096" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/pinball-3.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/pinball-5.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/pinball-1.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/pinball-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/bumper-piezo.mp4" type="video/mp4"></enclosure>
+<enclosure url="http://pascoli.github.com/pinball-2.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/kicker.mp4" type="video/mp4"></enclosure>
 			
 		</item>
 		<item>
@@ -214,11 +214,11 @@
 			<description>
 				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A digital logic implementation of the traditional laser tag game, created spring 2012. The project contains two modules, electronics that represent a laser gun, and electronics that represent a vest. The gun is programed to any one of eight potential players (equally split into two teams) using a DIP-switch. The three bit binary number is compiled into a string with additional information, which prompts the vest to identify the incoming player ID when shot. When triggered, a shift register sends the string through a laser using rapid on-off pulses. A phototransistor on the vest registers the laser pulse. A combination of shift registers, multiplexers, and logic gates decode the transmission and increment a counter for the team that was just hit. Similar to the laser gun, the vest has a player ID input and ignores friendly fire. 7-segment displays show the number of times each team has been hit.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;The vest is represented by the left-most breadboard and the three bread boards on the far right. The remaining two breadboards each represent a gun.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
 			</description>
-			<pubDate>Fri, 28 Dec 2012 23:50:28 +0100</pubDate>
+			<pubDate>Fri, 28 Dec 2012 14:50:28 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/laser-tag.htm</guid>
-            <enclosure url="https://pascoli.github.io/_Media/dsc_2625_med-2.jpeg" length="579659" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dscf5750_med-2.jpeg" length="5761700" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dscf5741_med-2.jpeg" length="6156865" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/dld-3.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/dld-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/dld-1.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -229,32 +229,32 @@
 					&lt;div class="first graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_9941_med-2.jpeg" alt="DSC_9941.jpg" width="800" height="531" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9941.jpg" src="http://pascoli.github.com/orange-1.jpeg" width="800" height="531" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
 					&lt;/div&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_9992_med-2.jpeg" alt="DSC_9992.jpg" width="800" height="531" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9992.jpg" src="http://pascoli.github.com/orange-2.jpeg" width="800" height="532" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img src="https://pascoli.github.io/_Media/dsc_9999_med-2.jpeg" alt="DSC_9999.jpg" width="800" height="531" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9151.jpg" src="http://pascoli.github.com/orange-4.jpeg" width="800" height="607" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;
+					&lt;/div&gt;&lt;br /&gt;
 				&lt;/div&gt;
 			</description>
-			<pubDate>Fri, 28 Dec 2012 23:50:28 +0100</pubDate>
+			<pubDate>Fri, 28 Dec 2012 14:50:28 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/orange-juicer.htm</guid>
-            <enclosure url="https://pascoli.github.io/_Media/dsc_9151_med-2.jpeg" length="259162" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dsc_9992_med-2.jpeg" length="470180" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dsc_9941_med-2.jpeg" length="330599" type="image/jpeg"></enclosure>
-<enclosure url="https://pascoli.github.io/_Media/dsc_9999_med-2.jpeg" length="653729" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/orange-3.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/orange-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/orange-2.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/orange-1.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -277,9 +277,9 @@
 					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
-			<pubDate>Fri, 28 Dec 2012 23:50:28 +0100</pubDate>
+			<pubDate>Fri, 28 Dec 2012 14:50:28 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/miscellaneous.htm</guid>
-            <enclosure url="https://pascoli.github.io/_Media/peter-ascoli-cad_med-2.png" length="820821" type="image/png"></enclosure>
+            <enclosure url="http://pascoli.github.com/small-1.png" type="image/png"></enclosure>
 			
 		</item>
  	</channel>
