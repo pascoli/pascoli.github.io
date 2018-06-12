@@ -5,7 +5,7 @@
 		<link>https://pascoli.github.io/undergraduate-engineering/index.html</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>Tue, 05 Jun 2018 19:32:31 -0700</lastBuildDate>
+		<lastBuildDate>Mon, 11 Jun 2018 23:00:48 -0700</lastBuildDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<generator>Sandvox 2.10.11</generator>
 		<item>
@@ -17,12 +17,12 @@
 			</description>
 			<pubDate>Wed, 18 Sep 2013 21:41:53 -0700</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/modular-camera.html</guid>
-            <enclosure url="http://pascoli.github.com/cam-3.jpeg" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/cam-2.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/cam-1.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/cam-6.png" type="image/png"></enclosure>
+<enclosure url="http://pascoli.github.com/cam-3.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/cam-7.png" type="image/png"></enclosure>
 <enclosure url="http://pascoli.github.com/cam-4.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.com/cam-6.png" type="image/png"></enclosure>
-<enclosure url="http://pascoli.github.com/cam-2.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -34,9 +34,9 @@
 			</description>
 			<pubDate>Wed, 06 Feb 2013 13:44:20 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/lure.html</guid>
-            <enclosure url="http://pascoli.github.io/lure-4.jpeg" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.io/lure-5.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.io/lure-1.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.io/lure-5.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.io/lure-4.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -80,20 +80,20 @@
 								&lt;!-- /sandvox.YouTubeElement --&gt;
 							&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;Two sample shadowgraph images. One, a proof of concept with a lighter and flashlight. Two, side-by-side flame and shadowgraph showing the laminar (cone) to turbulant flow transition.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;Two sample shadowgraph images. One, a proof of concept with a lighter and flashlight. Two, side-by-side flame and shadowgraph showing the laminar (cone) to turbulant flow transition.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9948" src="http://pascoli.github.com/shadow-3.jpeg" width="400" height="600" class="graphic" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_6938" src="http://pascoli.github.com/shadow-4.jpeg" width="400" height="600" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
 			<pubDate>Wed, 06 Feb 2013 13:44:20 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/shadowgraph-photography-rig.html</guid>
-            <enclosure url="http://pascoli.github.com/shadow-4.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.com/shadow-3.jpeg" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/shadow-3.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/shadow-4.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -170,10 +170,10 @@
 			<pubDate>Sun, 27 Jan 2013 14:29:57 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/transforming-table.html</guid>
             <enclosure url="http://pascoli.github.com/table-3.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.com/table-4.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/table-1.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.com/table-5.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/table-2.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/table-4.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/table-5.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -187,25 +187,18 @@
 								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSCF2525" src="http://pascoli.github.com/pinball-1.jpeg" width="500" height="500" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;A close look at the finished top level. Flippers are manually actuated via a linkage system installed beneath the board. Kickers are actauted by solenoids when a ball depresses the extended lever arm of a limit switch.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
-						&lt;div class="graphic"&gt;
-							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSCF2308" src="http://pascoli.github.com/pinball-2.jpeg" width="800" height="530" class="graphic" /&gt;
-								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;The flipper linkage system converting translation motion at the location of traditional pinball buttons, to rotational motion at the flipper locations.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;A close look at the finished top level. Flippers are manually actuated via a linkage system installed beneath the board. Kickers are actauted by solenoids when a ball depresses the extended lever arm of a limit switch.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;&lt;em&gt;The flipper linkage system converting translation motion at the location of traditional pinball buttons, to rotational motion at the flipper locations.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			</description>
 			<pubDate>Sun, 27 Jan 2013 14:29:38 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/the-pinball-machine.html</guid>
-            <enclosure url="http://pascoli.github.com/pinball-3.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.com/pinball-5.jpeg" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/pinball-2.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/pinball-3.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/kicker.mp4" type="video/mp4"></enclosure>
 <enclosure url="http://pascoli.github.com/pinball-1.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/pinball-4.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/bumper-piezo.mp4" type="video/mp4"></enclosure>
-<enclosure url="http://pascoli.github.com/pinball-2.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.com/kicker.mp4" type="video/mp4"></enclosure>
+<enclosure url="http://pascoli.github.com/pinball-5.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
 		<item>
@@ -232,14 +225,14 @@
 								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9941.jpg" src="http://pascoli.github.com/orange-1.jpeg" width="800" height="531" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
-								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9992.jpg" src="http://pascoli.github.com/orange-2.jpeg" width="800" height="532" class="graphic" /&gt;
+								&lt;!-- sandvox.ImageElement --&gt;&lt;img alt="DSC_9999.jpg" src="http://pascoli.github.com/orange-3.jpeg" width="800" height="531" class="graphic" /&gt;
 								&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
 						&lt;/div&gt;
-					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+					&lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 					&lt;div class="not-first-item graphic-container wide center ImageElement"&gt;
 						&lt;div class="graphic"&gt;
 							&lt;div class="figure-content"&gt;
@@ -251,9 +244,9 @@
 			</description>
 			<pubDate>Fri, 28 Dec 2012 14:50:28 -0800</pubDate>
 			<guid>https://pascoli.github.io/undergraduate-engineering/orange-juicer.htm</guid>
-            <enclosure url="http://pascoli.github.com/orange-3.jpeg" type="image/jpeg"></enclosure>
+            <enclosure url="http://pascoli.github.com/orange-2.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/orange-4.jpeg" type="image/jpeg"></enclosure>
-<enclosure url="http://pascoli.github.com/orange-2.jpeg" type="image/jpeg"></enclosure>
+<enclosure url="http://pascoli.github.com/orange-3.jpeg" type="image/jpeg"></enclosure>
 <enclosure url="http://pascoli.github.com/orange-1.jpeg" type="image/jpeg"></enclosure>
 			
 		</item>
