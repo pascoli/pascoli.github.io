@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>Carbon Fiber 3D Printing | Peter Ascoli</title>
+		<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/index.html</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Sun, 03 Jun 2018 16:37:32 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.10.7</generator>
+		<item>
+			<title>Toolpath Generation</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at-4.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;FANUC’s TP language was used to program the extruder tool paths since the FANUC cannot interpret standard 3D printing positioning programs (i.e. &lt;a href="https://en.wikipedia.org/wiki/G-code" target="_blank"&gt;G-code&lt;/a&gt;). Due to the tedious nature of TP, relatively simple commands, such as three-point-arcs, lines and offsets were used to establish the toolpath for the sample bridge specimen.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:12:53 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at-4.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at_med-2.png" length="133535" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>Megatronics Control Board</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/lathe-1.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The Megatronics microcontroller connnects directly to the extruder stepper motor, thermistor, ceramic heater, and fan. In addition to providing closed-loop temperature control, the microcontroller also reads speed data output from the FANUC robot to keep the extrusion rate constant along a unit length.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:57 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/lathe-1.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/lathe-1-2_med-2.jpeg" length="6122517" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Fabricated Extruder</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at-3.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A photograph of the fully fabricated extruder end-effector successfully reeling in and printing ABS.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:53 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at-3.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at_med-6.png" length="1786962" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>FANUC Printer</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/lathe.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A photograph of the FANUC robot set up for 3D printing. Aside from the Megatronics board, all other electronics are stored under the robot and out of view from the user.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/lathe.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/lathe-2_med-2.jpeg" length="3794749" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Printer Schematic</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-04-28-at-2.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A schematic of all the hardware that makes up the printer.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:46 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-04-28-at-2.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-04-28-at_med-3.png" length="98420" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>CFRP Dipping</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at-2.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Determining the best filament manufacturing method included experimenting with many different ABS-acetone solutions and dipping methods (sample shown below). The amount of ABS added per dip was the deciding factor in finalizing a method (assuming a circular cross-section, centered tow, and minimal defects were achieved) since dipping was done by hand and was extremely time consuming.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:30 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at-2.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at_med-7.png" length="120724" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>Specimen Failure Behavior</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;FEA results using Puck’s Failure Criteria agreed with literature on the subject. Matrix shear failure occurs in the areas of the section experiencing bending (orange), and delamination occurs where bending tension pulls layers apart (blue). &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:26 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-07-25-at.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-07-25-at_med-5.png" length="128029" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>Composite FEA</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/fea-acp-asme-01.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;ANSYS Composite PrepPost worked great for simulating a composite 3D printed part. Fiber directions, ply layers, and orthotropic material properties were easily implemented. Puck’s Failure Criteria for unidirectional (UD) CFRP composites was applied to determine the strength, stiffness, and failure behavior of a CFRP 3D printed part.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 23:51:57 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/fea-acp-asme-01.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/fea-acp-asme-01_med.png" length="375182" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>CFRP Filament</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-04-28-at.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;An ABS-matrix CFRP filament was manufactured by dipping a 1K carbon fiber tow through an ABS-acetone solution. As with any material there were defects, but they appeared to be of negligible effect when printing since the ABS melts in the extruder. [ABS in orange, carbon fiber in black]&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 23:48:20 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/screen-shot-2015-04-28-at.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2015-04-28_med.png" length="1239825" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>peter_ascoli_jackie_song_hw_med_hr.jpeg</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/peter_ascoli_jackie_song_hw.jpeg</link>
+			<description>
+				
+			</description>
+			<pubDate>Sat, 25 Jul 2015 23:43:28 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/peter_ascoli_jackie_song_hw.jpeg</guid>
+            
+			
+		</item>
+		<item>
+			<title>Extruder Design</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/extruder-design-2.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;An extruder was designed to mount to the mechanical grippers installed on Cooper’s FANUC robot. The extruder interfaces with various &lt;/span&gt;&lt;a href="http://www.fanucrobotics.com/cmsmedia/datasheets/LR%20Mate%20200iC%20Series_10.pdf" style="font-family: Verdana; font-size: 14px;"&gt;RepRap&lt;/a&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt; components (such as the nozzle) in a compact manner to mimize torques induced on the gripper. The feeding mechanism (a notched screw and a bearing for counter pressure) can be adjusted to accomodate a variety of filament sizes.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 28 Dec 2014 22:03:35 +0100</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/extruder-design-2.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/extruder-drawing-eps-conver_med.png" length="486788" type="application/pdf"></enclosure>
+			
+		</item>
+		<item>
+			<title>Pultrusion</title>
+			<link>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/pultrusion.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Pultruding 1K carbon fiber strands with ABS using a &lt;a href="http://the3doodler.com/" target="_blank"&gt;3Doodler&lt;/a&gt; in an early CFRP 3D printing proof-of-concept.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Thu, 16 Oct 2014 02:44:13 +0200</pubDate>
+			<guid>https://pascoli.github.io/undergraduate-engineering/carbon-fiber-3d-printing/pultrusion.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/screen-shot-2014-10-15_med.png" length="473554" type="image/png"></enclosure>
+			
+		</item>
+ 	</channel>
+</rss>

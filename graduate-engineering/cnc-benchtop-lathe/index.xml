@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>CNC BB8 | Peter Ascoli</title>
+		<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/index.html</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Mon, 04 Jun 2018 22:24:40 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.10.11</generator>
+		<item>
+			<title>Demo Video</title>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/turning-video.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;A video of BB8 rolling&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div class="Movie graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/jyisZeToyO0?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="900" height="506" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/turning-video.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/action_sq-2_med.png" length="148835" type="image/png"></enclosure>
+			
+		</item>
+		<item>
+			<title>Sketch</title>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/lathe-overview.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Early sketches of the CNC BB8 concept&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/lathe-overview.html</guid>
+            <enclosure url="https://pascoli.github.io/sketch.jpg" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>CNC Machining</title>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/cnc-machining.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Milling of the head hemisphere. The cylindrical stock was first internally hollowed out before flipping and machining the OML.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/cnc-machining.html</guid>
+            <enclosure url="https://pascoli.github.io/cnc.jpg" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Head Subassembly</title>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/head-subassembly.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Conical Delrin wheels allow the head to roll on the body, setting the distance between the magnets. The aluminum head is machined down to between 1/8” and 1/16” to wall thickness, and a 3D printed mounting structure is used to minimize mass.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/head-subassembly.html</guid>
+            <enclosure url="https://pascoli.github.io/head.jpg" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Pendulum Subassembly</title>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/pendulum-subassembly.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Copper ballast is supported by an aluminum lever. An internally pressed Delrin bushing mates the lever to the shaft. Preload to the bushing can be be adjusted via a bolt driving the displacement between the two aluminum lever halves. Acrylic flexures support a 3D printed magnet housing.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/pendulum-subassembly.html</guid>
+            <enclosure url="https://pascoli.github.io/pendulum.jpg" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Fit Test</title>
+			<link>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/fit-test.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A fit test of the head and pendulum in a 3D printed body before finalizing the the body geometry.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sat, 25 Jul 2015 18:17:46 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/cnc-benchtop-lathe/fit-test.html</guid>
+            <enclosure url="https://pascoli.github.io/int%20cross.jpg" type="image/jpeg"></enclosure>
+			
+		</item>
+ 	</channel>
+</rss>

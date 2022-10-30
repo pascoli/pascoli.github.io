@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>Mechanical Device for 3D Cell Scaffold Compression | Peter Ascoli</title>
+		<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/index.html</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Fri, 01 Jun 2018 00:05:17 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.10.7</generator>
+		<item>
+			<title>Overview</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/lathe.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The fully assembled device with a 12-well culture dish. Note that the machine is mostly anodized aluminum, which was implemented to cleanse the machined components of metal particles and machining oils post manufacturing.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/lathe.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1814_med.jpeg" length="4535032" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Operation Video</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/operation-video.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A video of the machine in operation.&lt;/span&gt;&lt;/p&gt;
+					&lt;div class="first graphic-container wide center"&gt;
+						&lt;div class="Movie graphic"&gt;
+							&lt;div class="figure-content"&gt;
+								&lt;!-- sandvox.YouTubeElement --&gt;
+								&lt;div class="YouTubeElement"&gt;
+									&lt;div class="video"&gt;
+										&lt;iframe allowFullScreen="true" frameborder="0" id="youtube" mozallowfullscreen="true" src="//www.youtube.com/embed/p_-qKHhIvEY?rel=0" title="YouTube video player" webkitAllowFullScreen="true" width="900" height="506" class="graphic"&gt;&lt;/iframe&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;!-- /sandvox.YouTubeElement --&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;&lt;br /&gt;
+				&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/operation-video.html</guid>
+            
+			
+		</item>
+		<item>
+			<title>General Schematic</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/general-schematic.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A labeled schematic of the major components. The actuator assembly mates to the base assembly via kinematic couplings&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/general-schematic.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/figure-3_med-2.jpeg" length="1415371" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Critical Mechanism Schematic and Description</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/critical-mechanism-schemati.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A schematic of the critical mechanism. The precision of the machined is goverened by a 0.013in clearance (1) between the voice coil (2) and magnet (3) due to the absence of an integrated bearing. The top plate (6) fully constrains the voice coils (2) and the middle plate (7) allows for only vertical motion of the magnets (3). A keeper plate below the middle plate keeps the magnets from falling out when there is no power applied to the coils. The structural loop (8) was kept as compact as possible to reduce errors. Tolerance rings (4) locate the voice coils in the top plate and press fit Teflon bushings (5) constrain the vertical motion of the magnet. A stainless steel threaded shaft (9) holds the Teflon plunger (10), which comes in direct contact with the scaffolds.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/critical-mechanism-schemati.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/figure-5_med.jpeg" length="1520623" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Base Subassembly</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/base-subassembly.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The base subassembly. Note the blade flexure and the planar kinematic coupling system to constrain the well plate. 90-degree V-grooves form half of the kinematic coupling system that locates the actuator subassembly to the base plate. The base plate is hard anodized to minimize wear from mating the kinematic couplings.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/base-subassembly.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1827_med.jpeg" length="2784923" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Top Plate Subassembly - Underside</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/top-plate-subassembly--.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-family: Verdana; font-size: 14px;"&gt;The top plate with mounted tolerance rings and voice coils. The blade flexures precisely mate the top plate to the middle plate and the tolerance rings concentrically seat the voice coils withing the machined pockets.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/top-plate-subassembly--.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1754_med.jpeg" length="4715356" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Middle Plate</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/middle-plate.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The middle plate with press-fit Teflon bushings.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/middle-plate.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1761_med.jpeg" length="5128535" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Middle Plate VCs</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/middle-plate-vcs.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The middle plate with the voice coil and magnets fully assembled.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/middle-plate-vcs.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1764_med.jpeg" length="5988722" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Keeper Plate</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/keeper-plate.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The keeper plate installed in the actuator subassembly, which serves as a voice coil hard stop.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/keeper-plate.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1770_med.jpeg" length="5717295" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Actuator Subssembly</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/actuator-subassembly.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;The completed actuator subassembly with plungers and kinematic coupling balls installed. The small holes in the plunger bases allow for media perfusion so that the cells still receive nutrients during experiments.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/actuator-subassembly.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1825_med.jpeg" length="6255172" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Actuator Subassembly - Top</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/actuator-subassembly---top.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;A top view of the actuator subassembly to show the blade flexures locating the top plate to the middle plate.&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/actuator-subassembly---top.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/dsc_1759_med.jpeg" length="4583901" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>Material Analysis</title>
+			<link>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/material-analysis.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;span style="font-size: 14px; font-family: Verdana;"&gt;Stress-Strain data of 0.6% agaros gel, which has similar mechanical properties to the scaffold material (gelatin methacrylate), was gathered to develop the pressure range required by the machine. While previous research suggested that up to 5 kPa of dynamic loads was desirable, only a maximum of 2 kPa could be achieved at the given scaffold size before comprimising material integrity. &lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 26 Jul 2015 00:09:49 +0200</pubDate>
+			<guid>https://pascoli.github.io/graduate-engineering/mechanical-apparatus-for/material-analysis.html</guid>
+            <enclosure url="https://pascoli.github.io/_Media/figure-1_med.jpeg" length="2280426" type="image/jpeg"></enclosure>
+			
+		</item>
+ 	</channel>
+</rss>
